@@ -32,7 +32,7 @@
 - 🌟 **[Ethereal Offering](https://drasticstatic.github.io/gratitude-token-project_docs/)** — gratitude-based DAO with soulbound DIDs, ritual intelligence & ZK governance
 - 📊 **[Trading Systems](https://drasticstatic.github.io/trading-assistant-public-preview/)** — AI-assisted wealth warden, assistant, accountability coach, success manager & analyst
 - 🤖 **AI Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning and production execution
-- ⚖️ **Private Tools** — specialized, self-hosted utilities & productivity scripts focused on digital autonomy & structural security
+- 🛠️ **Private Tools** — specialized, self-hosted utilities & productivity scripts focused on digital autonomy & structural security
 - 🌐 **Public Surfaces** — educational HTML guides & proividing other builders with accessible, high-quality starting points
 
 I believe in open-source foundations for the next generation of builders by stripping down my internal projects into accessible, lightweight reusable templates, tooling, and code snippets. From refined layouts to complex automation scripts, providing the community with education and raw materials needed to bootstrap their own ideas 🙂
@@ -48,7 +48,7 @@ I believe in open-source foundations for the next generation of builders by stri
 
 ---
 
-**Languages & Frameworks**
+**👨🏽‍💻 Languages & Frameworks 📐**
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -74,7 +74,7 @@ I believe in open-source foundations for the next generation of builders by stri
 ![Mazatrol](https://img.shields.io/badge/Mazatrol-E55A00?style=flat&logoColor=white)
 ![CAD/CAM](https://img.shields.io/badge/CAD%2FCAM-009999?style=flat&logo=siemens&logoColor=white)
 
-**Backend DevOps & Tools**
+**🔬 Backend DevOps & Tools 🧰**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
@@ -96,7 +96,7 @@ I believe in open-source foundations for the next generation of builders by stri
 ![.ENV](https://img.shields.io/badge/.ENV-ECD53F?style=flat&logo=dotenv&logoColor=black)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
-**Web3 & Blockchain**
+**🕸️ Web3 & Blockchain ⛏️⛓️**
 
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDE4YTEgMSAwIDAgMCAxIDFoMThhMSAxIDAgMCAwIDEtMXYtMmExIDEgMCAwIDAtMS0xSDNhMSAxIDAgMCAwLTEgMXYyeiIvPjxwYXRoIGQ9Ik0xMCAxMFY1YTEgMSAwIDAgMSAxLTFoMmExIDEgMCAwIDEgMSAxdjUiLz48cGF0aCBkPSJNNCAxNXYtM2E2IDYgMCAwIDEgNi02Ii8+PHBhdGggZD0iTTE0IDZhNiA2IDAgMCAxIDYgNnYzIi8+PC9zdmc+&logoColor=black)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
@@ -113,7 +113,7 @@ I believe in open-source foundations for the next generation of builders by stri
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
 ![TON](https://img.shields.io/badge/TON-0098EA?style=flat&logo=ton&logoColor=white)
 
-**AI Automation, OS, Security, and other Platforms**
+**👾 AI Automation, OS, Security, and other Platforms 🖥️**
 
 ![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat&logo=anthropic&logoColor=BBBBBB)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
