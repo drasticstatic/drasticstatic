@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherwilsonmrt/)
 &nbsp;
-[![Portfolio & Resume ↗](https://img.shields.io/badge/Portfolio_%26_Resume_%E2%86%97-drasticstatic.github.io%2Fresume-FF5BBD?style=flat&logo=github&logoColor=white)](https://drasticstatic.github.io/resume/)
+[![Portfolio & Resume ↗](https://img.shields.io/badge/Portfolio_%26_Resume_%E2%86%97-FF5BBD?style=flat&logo=github&logoColor=white)](https://drasticstatic.github.io)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=drasticstatic&color=72e7ff&style=flat&label=visitors)](https://github.com/drasticstatic)
 &nbsp;
@@ -34,7 +34,7 @@ For nearly two decades I've worked in precision manufacturing. Today I apply tha
 <div align="center">
 
 <!-- Generated nightly by github-profile-3d-contrib workflow -->
-<img src="profile-3d-contrib/profile-night-green-animate.svg" width="100%" alt="3D contribution graph"/>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
 </div>
 
@@ -53,17 +53,17 @@ For nearly two decades I've worked in precision manufacturing. Today I apply tha
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logoColor=black)
-![Remix](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=ethereum&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-627EEA?style=flat&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=ethereum&logoColor=black)
+![Remix IDE](https://img.shields.io/badge/Remix_IDE-000000?style=flat&logo=remix&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-FAAD4D?style=flat&logo=wix&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=flat&logo=wix&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![Augment Intent](https://img.shields.io/badge/Augment_Intent-FF5BBD?style=flat&logoColor=white)
 ![MCP Servers](https://img.shields.io/badge/MCP_Servers-8A6DFF?style=flat&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-2962FF?style=flat&logo=tradingview&logoColor=white)

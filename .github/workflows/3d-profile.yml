@@ -5,6 +5,9 @@ on:
     - cron: '0 2 * * *'   # regenerates nightly at 2 AM UTC
   workflow_dispatch:        # also triggerable manually from Actions tab
 
+permissions:
+  contents: write           # required to push the generated SVGs back
+
 jobs:
   build:
     runs-on: ubuntu-latest
