@@ -1,4 +1,4 @@
-# Sponsor Christopher Wilson (drasticstatic)
+# Sponsor Christopher Stephen Wilson (drasticstatic)
 
 <div align="center">
 <img src="https://drasticstatic.github.io/favicon.svg" width="72" alt="drasticstatic"/>
@@ -10,7 +10,7 @@
 
 ## What I build in the open
 
-I'm a CNC machinist, blockchain developer, ordained minister, futures trader, and AI systems builder. Nearly everything I build eventually surfaces as open, public work — tools that I needed to exist and couldn't find elsewhere.
+Nearly everything I code eventually surfaces as open, public work — tools that I once needed to exist but couldn't find elsewhere and sharing with others 🙂
 
 **Public repositories include:**
 
@@ -27,7 +27,7 @@ I'm a CNC machinist, blockchain developer, ordained minister, futures trader, an
 Every dollar goes directly toward:
 
 - **Infrastructure** — GitHub Actions minutes, hosting, domain costs, MCP server uptime
-- **Tools** — API credits (Anthropic, TradingView, data feeds) that power open AI workflows
+- **Tools** — API credits (Anthropic, AugmentCode, TradingView, data feeds) that power open AI workflows
 - **Time** — More hours spent building and documenting public work instead of purely private client work
 - **Recovery tech** — Keeping PIR De Vine News and future recovery community tools free and open
 - **Documentation** — Making the work teachable, not just functional
@@ -35,18 +35,22 @@ Every dollar goes directly toward:
 ---
 
 ## Who I am
+Full Stack Engineer • Blockchain | Web3 Developer • AI Agent Builder • Sacred Systems Architect | Ordained Minister • Futures Trader • Crypto | DeFi Enthusiast
 
-I've spent nearly two decades in precision manufacturing — billet machining, theatrical staging, aerospace parts. The same discipline that makes a tolerance of ±0.001" meaningful is what I bring to code: measure twice, build once, document always.
+- After two decades in CNC precision manufacturing and programming, audio staging and production, I now further the discipline, quality assurance, and documentation practice in code development.
 
-I'm also an ordained minister who believes technology can be sacred when it protects human dignity, supports sovereignty, and creates pathways to healing. That conviction runs through everything I ship.
-
-> *"Build systems that honor human dignity, protect personal sovereignty, and create pathways to freedom."*
+> *"I believe technology can be sacred when building systems that honor and support human dignity, protect personal sovereignty, and create pathways to freedom and healing. That conviction runs through everything I ship."*
 
 ---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_&_Resume-drasticstatic.github.io%2Fresume-FF5BBD?style=for-the-badge)](https://drasticstatic.github.io/resume/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherwilsonmrt/)
+[![Sponsor ❤](https://img.shields.io/badge/Sponsor_%E2%9D%A4-FF5BBD?style=flat&logo=githubsponsors&logoColor=FF0000)](https://github.com/sponsors/drasticstatic)
+&nbsp;
+[![Portfolio & Resume ↗](https://img.shields.io/badge/Portfolio_%26_Resume_%E2%86%97-155724?style=flat&logo=github&logoColor=white)](https://drasticstatic.github.io)
+&nbsp;
+[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=flat&logo=gravatar&logoColor=white)](https://gravatar.com/christopherdrasticstatic)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/christopherwilsonmrt/)
 
 </div>
