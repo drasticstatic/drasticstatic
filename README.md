@@ -8,13 +8,13 @@
 
 [![Sponsor ❤](https://img.shields.io/badge/Sponsor_%E2%9D%A4-FF5BBD?style=flat&logo=githubsponsors&logoColor=FF0000)](https://github.com/sponsors/drasticstatic)
 &nbsp;
-[![Visitors](https://komarev.com/ghpvc/?username=drasticstatic&color=72e7ff&style=flat&label=%F0%9F%91%80)](https://github.com/drasticstatic)
+[![Visitors](https://hits.sh/github.com/drasticstatic.svg?style=flat&color=72e7ff&label=views&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDEyczMtNyAxMC03IDEwIDcgMTAgNy0zIDctMTAgNy0xMC03LTEwLTdaIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIvPjwvc3ZnPg==)](https://github.com/drasticstatic)
 &nbsp;
 [![Portfolio & Resume ↗](https://img.shields.io/badge/Portfolio_%26_Resume_%E2%86%97-155724?style=flat&logo=github&logoColor=white)](https://drasticstatic.github.io)
 
 [![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=flat&logo=gravatar&logoColor=white)](https://gravatar.com/christopherdrasticstatic)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%91%A4_LinkedIn-0077B5?style=flat&logoColor=white)](https://www.linkedin.com/in/christopherwilsonmrt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/christopherwilsonmrt/)
 &nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](#)
 &nbsp;
@@ -87,12 +87,12 @@ For nearly two decades I've worked in precision manufacturing. Today I apply tha
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethers&logoColor=white)
-![Hardhat](https://img.shields.io/badge/%F0%9F%91%B7_Hardhat-FFF100?style=flat&logoColor=black)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDE4YTEgMSAwIDAgMCAxIDFoMThhMSAxIDAgMCAwIDEtMXYtMmExIDEgMCAwIDAtMS0xSDNhMSAxIDAgMCAwLTEgMXYyeiIvPjxwYXRoIGQ9Ik0xMCAxMFY1YTEgMSAwIDAgMSAxLTFoMmExIDEgMCAwIDEgMSAxdjUiLz48cGF0aCBkPSJNNCAxNXYtM2E2IDYgMCAwIDEgNi02Ii8+PHBhdGggZD0iTTE0IDZhNiA2IDAgMCAxIDYgNnYzIi8+PC9zdmc+&logoColor=black)
 ![Remix IDE](https://img.shields.io/badge/Remix_IDE-000000?style=flat&logo=remix&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white)
 ![Alchemy](https://img.shields.io/badge/Alchemy-0C0C0E?style=flat&logo=alchemy&logoColor=white)
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat&logo=walletconnect&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMS41IDNsLTUgMy41LTEtMi41TDIxLjUgM3pNMi41IDNsNS45IDEgLS45IDIuNUwyLjUgM3ptMTggNC41TDE4IDlsLjUgMy0zLjUtMi0zLjUgMkwxMiA5IDkuNSA3LjVsLTMuNSAyIC41LTMtMi41LTEuNS0xIDZMNSAxOWw3IDIgNy0yIDEuNS04LjUtMS02eiIvPjxjaXJjbGUgY3g9IjkuNSIgY3k9IjEyIiByPSIxLjIiLz48Y2lyY2xlIGN4PSIxNC41IiBjeT0iMTIiIHI9IjEuMiIvPjxwYXRoIGQ9Ik0xMCAxNi41Yy41LjggMSAxIDIgMXMxLjUtLjIgMi0xIi8+PC9zdmc+)
 ![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?style=flat&logo=opensea&logoColor=white)
 
 **Backend & DevOps**
@@ -112,8 +112,8 @@ For nearly two decades I've worked in precision manufacturing. Today I apply tha
 **AI & Automation**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-555555?style=flat&logo=anthropic&logoColor=999999)
-![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat&logo=anthropic&logoColor=BBBBBB)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yOCA5LjgyYTUuOTggNS45OCAwIDAgMC0uNTItNC45MSA2LjA1IDYuMDUgMCAwIDAtNi41MS0yLjkgNS45OCA1Ljk4IDAgMCAwLTQuNTEtMi4wMSA2LjA1IDYuMDUgMCAwIDAtNS43NyA0LjE5IDUuOTggNS45OCAwIDAgMC0zLjk5IDIuOSA2LjA1IDYuMDUgMCAwIDAgLjc0IDcuMDkgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxIDYuMDUgNi4wNSAwIDAgMCA2LjUxIDIuOUE1Ljk4IDUuOTggMCAwIDAgMTMuMjUgMjRhNi4wNSA2LjA1IDAgMCAwIDUuNzctNC4xOSA1Ljk4IDUuOTggMCAwIDAgMy45OS0yLjkgNi4wNSA2LjA1IDAgMCAwLS43My03LjA3ek0xMy4yNSAyMi41YTQuNDggNC40OCAwIDAgMS0yLjg4LTEuMDRsLjE0LS4wOCA0Ljc4LTIuNzZhLjc5Ljc5IDAgMCAwIC40LS42OFYxMS43bDIuMDIgMS4xN2EuMDcuMDcgMCAwIDEgLjA0LjA1djUuNThhNC41IDQuNSAwIDAgMS00LjUgNC41em0tOS42Ni00LjEzYTQuNDcgNC40NyAwIDAgMS0uNTMtMy4wMWwuMTQuMDggNC43OCAyLjc2YS43Ny43NyAwIDAgMCAuNzggMGw1Ljg0LTMuMzd2Mi4zM2EuMDguMDggMCAwIDEtLjAzLjA2bC00Ljg0IDIuNzlhNC41IDQuNSAwIDAgMS02LjE0LTEuNjR6TTIuMzQgNy45YTQuNDkgNC40OSAwIDAgMSAyLjM3LTEuOTd2NS42M2EuNzcuNzcgMCAwIDAgLjM5LjY4bDUuODEgMy4zNS0yLjAyIDEuMTdhLjA4LjA4IDAgMCAxLS4wNyAwTDMuOTUgMTMuOTdBNC41IDQuNSAwIDAgMSAyLjM0IDcuOXptMTYuNiAzLjg2bC01Ljg0LTMuMzcgMi4wMi0xLjE3YS4wOC4wOCAwIDAgMSAuMDcgMGw0LjgzIDIuNzlBNC41IDQuNSAwIDAgMSAxOS4zIDE4di01LjY4YS43OS43OSAwIDAgMC0uMzYtLjU2em0yLjAxLTMuMDJsLS4xNC0uMDgtNC43Ny0yLjc4YS43OC43OCAwIDAgMC0uNzkgMEw5LjQxIDkuMjNWNi45YS4wNy4wNyAwIDAgMSAuMDMtLjA2bDQuODMtMi43OWE0LjUgNC41IDAgMCAxIDYuNjggNC42NnpNOC4zMSAxMi44NmwtMi4wMi0xLjE2YS4wOC4wOCAwIDAgMS0uMDQtLjA2VjYuMDdhNC41IDQuNSAwIDAgMSA3LjM4LTMuNDVsLS4xNC4wOC00Ljc4IDIuNzZhLjc5Ljc5IDAgMCAwLS40LjY4em0xLjEtMi4zN2wyLjYtMS41IDIuNiAxLjV2M2wtMi42IDEuNS0yLjYtMS41eiIvPjwvc3ZnPg==)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=flat&logo=googlegemini&logoColor=white)
 ![Augment Intent](https://img.shields.io/badge/%7B%C2%B7%C2%B7%7D_Augment_Intent-00A855?style=flat&logoColor=white)
 ![MCP Servers](https://img.shields.io/badge/MCP_Servers-FF5BBD?style=flat&logoColor=white)
@@ -121,7 +121,7 @@ For nearly two decades I've worked in precision manufacturing. Today I apply tha
 
 **Dev Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMTkuODhWNC4xMmExLjUgMS41IDAgMCAwLS44NS0xLjUzM3pNMTYuNTUgMTguMDlMOS43NiAxMmw2Ljc5LTYuMDl2MTIuMTh6Ii8+PC9zdmc+)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
