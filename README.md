@@ -29,7 +29,7 @@
 
 ---
 **For two decades I served in precision manufacturing and audio engineering; today I apply that same discipline to building technological systems and tools to empower others, honor human dignity, protect personal sovereignty, and create pathways to freedom:**
-- 🎓 **[Ethereal Offering](https://drasticstatic.github.io/gratitude-token-project_docs/)** — gratitude-based DAO with soulbound DIDs, ritual intelligence & ZK governance
+- 🌟 **[Ethereal Offering](https://drasticstatic.github.io/gratitude-token-project_docs/)** — gratitude-based DAO with soulbound DIDs, ritual intelligence & ZK governance
 - 📊 **[Trading Systems](https://drasticstatic.github.io/trading-assistant-public-preview/)** — AI-assisted wealth warden, assistant, accountability coach, success manager & analyst
 - 🤖 **AI Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning and production execution
 - ⚖️ **Private Tools** — specialized, self-hosted utilities & productivity scripts focused on digital autonomy & structural security
