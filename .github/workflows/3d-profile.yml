@@ -1,0 +1,25 @@
+name: 3D Contribution Profile
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # regenerates nightly at 2 AM UTC
+  workflow_dispatch:        # also triggerable manually from Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push 3D graph
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A .
+          git commit -m "chore: update 3D contribution graph" || true
+          git push
