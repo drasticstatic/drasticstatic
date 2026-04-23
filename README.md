@@ -6,16 +6,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=72E7FF&center=true&vCenter=true&width=520&lines=CNC+Machinist+%7C+20+Years+Precision+Manufacturing;Blockchain+Builder+%7C+Web3+%26+Solidity+Dev;Ordained+Minister+%7C+Sacred+Systems+Architect;Futures+Trader+%7C+MNQ+on+Apex+%26+TPT;AI+Systems+Builder+with+Claude+Code+%26+MCP)](https://git.io/typing-svg)
 
-[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=flat&logo=gravatar&logoColor=white)](https://gravatar.com/christopherdrasticstatic)
-&nbsp;
 [![Sponsor ❤](https://img.shields.io/badge/Sponsor_%E2%9D%A4-FF5BBD?style=flat&logo=githubsponsors&logoColor=FF0000)](https://github.com/sponsors/drasticstatic)
 &nbsp;
-[![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Fdrasticstatic%2Fprofile%2Fup&query=count&logo=gravatar&label=visitors&color=72e7ff&style=flat)](https://github.com/drasticstatic)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherwilsonmrt/)
+[![Visitors](https://komarev.com/ghpvc/?username=drasticstatic&color=72e7ff&style=flat&label=%F0%9F%91%80)](https://github.com/drasticstatic)
 &nbsp;
 [![Portfolio & Resume ↗](https://img.shields.io/badge/Portfolio_%26_Resume_%E2%86%97-155724?style=flat&logo=github&logoColor=white)](https://drasticstatic.github.io)
 
+[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=flat&logo=gravatar&logoColor=white)](https://gravatar.com/christopherdrasticstatic)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%91%A4_LinkedIn-0077B5?style=flat&logoColor=white)](https://www.linkedin.com/in/christopherwilsonmrt/)
+&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](#)
 &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](#)
@@ -87,7 +87,7 @@ For nearly two decades I've worked in precision manufacturing. Today I apply tha
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethers&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black)
+![Hardhat](https://img.shields.io/badge/%F0%9F%91%B7_Hardhat-FFF100?style=flat&logoColor=black)
 ![Remix IDE](https://img.shields.io/badge/Remix_IDE-000000?style=flat&logo=remix&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white)
 ![Alchemy](https://img.shields.io/badge/Alchemy-0C0C0E?style=flat&logo=alchemy&logoColor=white)
@@ -112,7 +112,7 @@ For nearly two decades I've worked in precision manufacturing. Today I apply tha
 **AI & Automation**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat&logo=anthropic&logoColor=grey)
+![Anthropic](https://img.shields.io/badge/Anthropic-555555?style=flat&logo=anthropic&logoColor=999999)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=flat&logo=googlegemini&logoColor=white)
 ![Augment Intent](https://img.shields.io/badge/%7B%C2%B7%C2%B7%7D_Augment_Intent-00A855?style=flat&logoColor=white)
@@ -121,7 +121,7 @@ For nearly two decades I've worked in precision manufacturing. Today I apply tha
 
 **Dev Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
