@@ -182,7 +182,7 @@ Use a **classic** token, not fine-grained. Classic tokens are simpler and work r
 1. Go to [github.com/settings/tokens](https://github.com/settings/tokens) → **Generate new token (classic)**
 2. **Note:** give it a descriptive name per sync pair — e.g. `wilson-lawn-sync`, `trading-bot-sync` (one token per private→public pair keeps rotation and revocation clean)
 3. **Expiration:** your choice — no expiration is convenient but set a calendar reminder to rotate annually if you go that route
-4. **Scope:** check only **`repo`** (the top-level checkbox) — this is the only scope sync-public.yml needs
+4. **Scope:** check **`repo`** (the top-level checkbox). If your sync workflow injects a `.github/workflows/` file into the public repo (e.g. a `deploy.yml` for GitHub Pages), also check **`workflow`** — GitHub blocks pushing workflow files without it. You can add this scope later by editing the token in place; the token value does not change.
 5. Click **Generate token** and **copy it immediately** — GitHub will not show it again
 
 > **Why classic over fine-grained?** Fine-grained tokens require selecting repos individually and have more complex permission surfaces. Classic `repo` scope is the established pattern for CI/CD cross-repo push workflows and is what the GitHub Actions ecosystem expects.
@@ -208,6 +208,8 @@ gh secret list --repo YOUR_USERNAME/YOUR_PRIVATE_REPO
 ```
 
 Or via UI: Private repo → Settings → Secrets and variables → Actions → New repository secret → Name: `PUBLIC_REPO_TOKEN`
+
+> **If your sync injects a GitHub Pages deploy workflow:** See [Part 4 of the GitHub Pages guide](./how-to-publish-react-APPS-to-ghPAGES.md#part-4--public_repo_token-for-sync-publicyml) for the full PAT setup in that context, including when `workflow` scope is needed and how to add it without regenerating your token.
 
 #### Step 3 — Create the public repo
 

@@ -209,22 +209,33 @@ Or via UI: Repo → Settings → Secrets and variables → Actions → New repos
 
 If your repo uses `sync-public.yml` to mirror to a public preview repo, the workflow needs a Personal Access Token to push cross-repo. This is **separate** from GitHub Pages — it's only needed for the sync pipeline.
 
-### Step 1 — Create a Fine-grained PAT
+> **Full PAT setup and naming conventions** are covered in [Step 1 of the GitExporter guide](./how-to-setup-GITEXPORTER.md#step-1--create-a-personal-access-token-pat--classic). The summary below covers the scopes specific to this context.
 
-1. Go to [github.com/settings/tokens?type=beta](https://github.com/settings/tokens?type=beta)
-2. Click **Generate new token**
-3. Name it something like `sync-public-token`
-4. Set **Expiration** (90 days recommended — add a calendar reminder to rotate)
-5. Under **Repository access** → select **Only select repositories** → pick your **public** preview repo(s) only
-6. Under **Permissions** → **Contents** → **Read and Write**
-7. Click **Generate token** and **copy it immediately** — GitHub won't show it again
+### Step 1 — Create a classic PAT
+
+Use a **classic** token, not fine-grained. Classic tokens are simpler and work reliably across all repos.
+
+1. Go to [github.com/settings/tokens](https://github.com/settings/tokens) → **Generate new token (classic)**
+2. Name it after the sync pair — e.g. `wilson-lawn-sync`, `trading-bot-sync`
+3. **Expiration:** your choice — set a calendar reminder to rotate annually
+4. **Scopes:**
+   - Check **`repo`** (top-level) — required for all sync workflows
+   - Also check **`workflow`** if your sync injects a `.github/workflows/` file into the public repo (e.g. a `deploy.yml` for GitHub Pages). Without it, GitHub rejects the push with: *"refusing to allow a PAT to create or update workflow files without `workflow` scope"*
+5. Click **Generate token** and **copy it immediately** — GitHub will not show it again
+
+> **Adding `workflow` scope later:** You can edit an existing token at [github.com/settings/tokens](https://github.com/settings/tokens), check `workflow`, and save. The token value does not change — no need to update the secret.
 
 ### Step 2 — Add the token as a secret in your **private** repo
 
+**Use a separate terminal window** — not a Claude Code session or any tool that logs commands. Running `gh secret set` interactively in a clean terminal masks the token with `*****` and keeps it out of shell history and session logs.
+
 ```bash
-# Interactively — paste your token when prompted
 gh secret set PUBLIC_REPO_TOKEN --repo YOUR_USERNAME/YOUR_PRIVATE_REPO
+# → prompts: "Paste your secret: " — type/paste your token, it shows as ****
+# → confirms: "✓ Set Actions secret PUBLIC_REPO_TOKEN for YOUR_USERNAME/YOUR_PRIVATE_REPO"
 ```
+
+> **Avoid `--body "token"` on the command line** — the token value lands in `.zsh_history` in plain text.
 
 Or via UI: Private repo → Settings → Secrets and variables → Actions → New repository secret → `PUBLIC_REPO_TOKEN`
 
@@ -238,7 +249,7 @@ Or via UI: Actions tab → select the failed run → Re-run jobs.
 
 ### Multiple public repos — one PAT or many?
 
-One PAT can cover multiple repos if you select all of them under "Repository access" in Step 1. Simpler to maintain: one secret, one rotation reminder.
+One classic PAT can cover multiple repos — no repo selection step like fine-grained tokens. One token per sync pair keeps rotation and revocation clean: if you name it `trading-bot-sync` you know exactly what breaks when you rotate it.
 
 ---
 
@@ -250,6 +261,7 @@ One PAT can cover multiple repos if you select all of them under "Repository acc
 | 404 on JS/CSS assets | Missing base path | CRA: add `homepage` to `package.json` · Vite: pass `--base=/REPO_NAME/` |
 | `CI: false` missing | Warnings treated as errors | Add `CI: false` to build env in workflow (CRA only) |
 | `Authentication failed` in sync workflow | `PUBLIC_REPO_TOKEN` secret not set or expired | See Part 4 above |
+| `refusing to allow a PAT to create or update workflow files` | Token missing `workflow` scope | Edit token at github.com/settings/tokens → check `workflow` → save (token value unchanged) |
 | App loads but contract calls fail | No wallet + no fallback RPC | Add `JsonRpcProvider` fallback in `contractUtils.js` |
 | Build succeeds but Pages still shows old version | Pages deployment lag | Wait 1–2 min, hard refresh (`Cmd+Shift+R`) |
 
