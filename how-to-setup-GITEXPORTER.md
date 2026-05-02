@@ -175,21 +175,28 @@ Everything is public unless explicitly listed as private. Best when most of your
 
 ### Setup steps
 
-#### Step 1 — Create a Personal Access Token (PAT)
+#### Step 1 — Create a Personal Access Token (PAT) — classic
 
-1. Go to [GitHub → Settings → Developer settings → Fine-grained tokens](https://github.com/settings/tokens?type=beta)
-2. Click **Generate new token**
-3. Set permissions: **Contents → Read and Write** for your public repo only
-4. Copy the token
+Use a **classic** token, not fine-grained. Classic tokens are simpler and work reliably across all repos.
 
-#### Step 2 — Add the token as a repo secret
+1. Go to [github.com/settings/tokens](https://github.com/settings/tokens) → **Generate new token (classic)**
+2. **Note:** give it a descriptive name per sync pair — e.g. `wilson-lawn-sync`, `trading-bot-sync` (one token per private→public pair keeps rotation and revocation clean)
+3. **Expiration:** your choice — no expiration is convenient but set a calendar reminder to rotate annually if you go that route
+4. **Scope:** check only **`repo`** (the top-level checkbox) — this is the only scope sync-public.yml needs
+5. Click **Generate token** and **copy it immediately** — GitHub will not show it again
+
+> **Why classic over fine-grained?** Fine-grained tokens require selecting repos individually and have more complex permission surfaces. Classic `repo` scope is the established pattern for CI/CD cross-repo push workflows and is what the GitHub Actions ecosystem expects.
+
+> **One token per sync pair** — if you reuse the same token across multiple repos, revoking or rotating it silently breaks all of them. Naming tokens after their purpose (e.g. `divorce-custody-sync`) makes this immediately obvious in the token list.
+
+#### Step 2 — Add the token as a secret in your **private** repo
 
 ```bash
-# Using GitHub CLI (recommended)
+# Using GitHub CLI — paste your token when prompted
 gh secret set PUBLIC_REPO_TOKEN --repo YOUR_USERNAME/YOUR_PRIVATE_REPO
 
-# Or manually: Settings → Secrets and variables → Actions → New repository secret
-# Name: PUBLIC_REPO_TOKEN
+# Or via UI: Private repo → Settings → Secrets and variables → Actions
+# → New repository secret → Name: PUBLIC_REPO_TOKEN
 ```
 
 #### Step 3 — Create the public repo
