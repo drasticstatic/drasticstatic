@@ -31,25 +31,17 @@
 **For two decades I served in precision manufacturing and audio engineering; today I apply that same discipline to building technological systems and tools to empower others, honor human dignity, protect personal sovereignty, and create pathways to freedom:**
 - 🌟 **[Ethereal Offering](https://drasticstatic.github.io/gratitude-token-project_docs/)** — gratitude-based DAO with soulbound DIDs, ritual intelligence & ZK governance
 - 📊 **[Trading Systems](https://drasticstatic.github.io/trading-assistant-public-preview/)** — AI-assisted wealth warden, assistant, accountability coach, success manager & analyst
+- 🌿 **[Wilson Lawn AI](https://drasticstatic.github.io/wilson-lawn-ai-assist-public/)** — AI-powered lawn care assistant built with Vite, shadcn/ui & ElevenLabs voice
+- 💹 **[DEX Arbitrage Bot](https://drasticstatic.github.io/trading-bot-arbitrage-public/)** — flash loan arbitrage dashboard monitoring Uniswap V3 & PancakeSwap V3
+- 📰 **[PIR Devine News](https://drasticstatic.github.io/pir-devine-news-public/dashboard/)** — newsletter committee hub for the Psychedelics in Recovery® fellowship
+- 🎓 **[DAPPU Solidity Intensive](https://drasticstatic.github.io/solidity_intensive/)** — blockchain developer bootcamp coursework & DApp exercises
+- 🏛️ **[DAO DApp](https://drasticstatic.github.io/dao/)** — governance voting DApp with on-chain proposal creation & execution
+- 💰 **[Crowdsale DApp](https://drasticstatic.github.io/crowdsale/)** — token crowdsale smart contract with live contribution interface
+- 🔄 **[AMM DApp](https://drasticstatic.github.io/amm/)** — automated market maker with liquidity pool management & swap UI
+- 🎨 **[NFT DAppU Punks](https://drasticstatic.github.io/nft_dappu-punks/)** — NFT minting DApp with collection gallery & on-chain metadata
 - 🤖 **AI Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning and production execution
 - 🛠️ **Private Tools** — specialized, self-hosted utilities & productivity scripts focused on digital autonomy & structural security
-- 🌐 **Public Surfaces** — educational HTML guides & providing other builders with accessible, high-quality starting points
-
-**🖥️ Live Front-Ends — projects with a deployed interface:**
-
-| Project | Live URL |
-|---------|----------|
-| 🌟 Ethereal Offering — DAO docs | [drasticstatic.github.io/gratitude-token-project_docs](https://drasticstatic.github.io/gratitude-token-project_docs/) |
-| 📊 Trading Assistant | [drasticstatic.github.io/trading-assistant-public-preview](https://drasticstatic.github.io/trading-assistant-public-preview/) |
-| 📄 Portfolio & Resume | [drasticstatic.github.io/resume](https://drasticstatic.github.io/resume/index.html) |
-| 🌿 Wilson Lawn AI | [drasticstatic.github.io/wilson-lawn-ai-assist-public](https://drasticstatic.github.io/wilson-lawn-ai-assist-public/) |
-| 🤖 DEX Arbitrage Bot | [drasticstatic.github.io/trading-bot-arbitrage-public](https://drasticstatic.github.io/trading-bot-arbitrage-public/) |
-| 📰 PIR Devine News — committee hub | [drasticstatic.github.io/pir-devine-news-public/dashboard](https://drasticstatic.github.io/pir-devine-news-public/dashboard/) |
-| 🎓 DAPPU Solidity Intensive | [drasticstatic.github.io/solidity_intensive](https://drasticstatic.github.io/solidity_intensive/) |
-| 🏛️ DAO DApp | [drasticstatic.github.io/dao](https://drasticstatic.github.io/dao/) |
-| 💰 Crowdsale DApp | [drasticstatic.github.io/crowdsale](https://drasticstatic.github.io/crowdsale/) |
-| 🔄 AMM DApp | [drasticstatic.github.io/amm](https://drasticstatic.github.io/amm/) |
-| 🎨 NFT DAppU Punks | [drasticstatic.github.io/nft_dappu-punks](https://drasticstatic.github.io/nft_dappu-punks/) |
+- 🌐 **[Public Surfaces](https://github.com/drasticstatic?tab=repositories)** — providing educational guides, resources & accessible scaffolding for others
 
 I believe in open-source foundations for the next generation of builders by stripping down my internal projects into accessible, lightweight reusable templates, tooling, and code snippets. From refined layouts to complex automation scripts, providing the community with education and raw materials needed to bootstrap their own ideas 🙂
 
