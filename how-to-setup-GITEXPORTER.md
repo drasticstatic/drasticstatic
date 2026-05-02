@@ -191,13 +191,23 @@ Use a **classic** token, not fine-grained. Classic tokens are simpler and work r
 
 #### Step 2 — Add the token as a secret in your **private** repo
 
-```bash
-# Using GitHub CLI — paste your token when prompted
-gh secret set PUBLIC_REPO_TOKEN --repo YOUR_USERNAME/YOUR_PRIVATE_REPO
+**Use a separate terminal window** — not a Claude Code session or any tool that logs commands. Running `gh secret set` interactively in a clean terminal masks the token with `*****` and keeps it out of shell history and any session logs.
 
-# Or via UI: Private repo → Settings → Secrets and variables → Actions
-# → New repository secret → Name: PUBLIC_REPO_TOKEN
+```bash
+gh secret set PUBLIC_REPO_TOKEN --repo YOUR_USERNAME/YOUR_PRIVATE_REPO
+# → prompts: "Paste your secret: " — type/paste your token, it shows as ****
+# → confirms: "✓ Set Actions secret PUBLIC_REPO_TOKEN for YOUR_USERNAME/YOUR_PRIVATE_REPO"
 ```
+
+> **Avoid `--body "token"` on the command line** — the token value lands in your `.zsh_history` in plain text. The interactive prompt is safer.
+
+Verify it was set:
+```bash
+gh secret list --repo YOUR_USERNAME/YOUR_PRIVATE_REPO
+# Should show: PUBLIC_REPO_TOKEN   Updated YYYY-MM-DD
+```
+
+Or via UI: Private repo → Settings → Secrets and variables → Actions → New repository secret → Name: `PUBLIC_REPO_TOKEN`
 
 #### Step 3 — Create the public repo
 
