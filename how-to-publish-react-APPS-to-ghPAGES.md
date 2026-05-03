@@ -230,7 +230,69 @@ if (window.ethereum) {
 }
 ```
 
-**Fix — Part 3: wire in a `DAppGuard` component**
+**Fix — Part 3: `isLoading` stuck at `true` — spinner that never resolves**
+
+Many DApps initialize with `isLoading: true` and rely on `loadBlockchainData` to flip it to `false` once data loads. Without MetaMask, there are two common patterns that leave the spinner stuck permanently — the user sees a spinning "Loading Data..." or a blank white page:
+
+**Pattern A — early return before `setIsLoading(false)`:**
+```javascript
+// ❌ Returns before spinner is cleared
+const loadBlockchainData = async () => {
+  if (!window.ethereum) {
+    console.error('MetaMask not found')
+    return  // isLoading stays true forever
+  }
+  // ...
+  setIsLoading(false)
+}
+
+// ✅ Clear the spinner on every exit path
+const loadBlockchainData = async () => {
+  if (!window.ethereum) {
+    setIsLoading(false)  // ← add this
+    return
+  }
+  // ...
+  setIsLoading(false)
+}
+```
+
+**Pattern B — `useEffect` guards loading behind `window.ethereum`:**
+```javascript
+// ❌ Without wallet the else branch never runs — isLoading stuck
+useEffect(() => {
+  if (isLoading && window.ethereum) {
+    loadBlockchainData()
+  }
+}, [isLoading])
+
+// ✅ Explicitly clear loading when no wallet present
+useEffect(() => {
+  if (isLoading && window.ethereum) {
+    loadBlockchainData()
+  } else if (isLoading && !window.ethereum) {
+    setIsLoading(false)  // ← add this
+  }
+}, [isLoading])
+```
+
+**Wrap async load in try/catch to prevent unhandled rejections:**
+
+If the app connects via public RPC fallback but the config only has local Hardhat chainId (31337), contract lookups like `config[chainId].token.address` will throw when `chainId` is `11155111`. Without a try/catch this becomes an unhandled rejection:
+```javascript
+const loadBlockchainData = async () => {
+  try {
+    const provider = await loadProvider(dispatch)
+    const chainId = await loadNetwork(provider, dispatch)
+    await loadTokens(provider, chainId, dispatch)  // throws if chainId not in config
+  } catch (err) {
+    console.warn('Demo mode: contracts not deployed to this network', err)
+    // app renders with empty Redux state — UI visible, no data
+  }
+}
+```
+
+**Fix — Part 4: wire in a `DAppGuard` component**
 
 A `DAppGuard` wrapper shows a friendly "No wallet detected — install MetaMask" banner instead of a blank page, while still rendering the app in read-only mode. Wrap `<App />` in `index.js`:
 
@@ -366,6 +428,8 @@ One classic PAT can cover multiple repos — no repo selection step like fine-gr
 | `refusing to allow a PAT to create or update workflow files` | Token missing `workflow` scope | Edit token at github.com/settings/tokens → check `workflow` → save (token value unchanged) |
 | App loads but contract calls fail | No wallet + no fallback RPC | Add `JsonRpcProvider` fallback in `contractUtils.js` |
 | Build succeeds, Pages live, but **blank white page** | `new Web3Provider(window.ethereum)` throws when no wallet — unhandled crash | Guard provider instantiation + event listeners + wrap with `DAppGuard` — see Part 3 |
+| Spinner ("Loading Data...") never resolves — no content appears | `isLoading` stuck `true`: early return skips `setIsLoading(false)`, or `useEffect` guards load behind `window.ethereum` | Add `setIsLoading(false)` before every early return; add `else if (!window.ethereum) setIsLoading(false)` to useEffect — see Part 3 |
+| App renders empty UI with no data | Config only has local chainId (31337); public RPC returns different chainId → `config[chainId]` is `undefined` → throws | Wrap `loadBlockchainData` in try/catch — app renders UI shell in demo mode — see Part 3 |
 | Build succeeds but Pages still shows old version | Pages deployment lag | Wait 1–2 min, hard refresh (`Cmd+Shift+R`) |
 
 ---
