@@ -37,23 +37,32 @@ Drawing from decades of previously serving and operating in the worlds of precis
 
 - 🌟 **[Ethereal Offering](https://drasticstatic.github.io/gratitude-token-project_docs/)** — gratitude-centric DApp ecosystem featuring soulbound DIDs, ritual intelligence & ZK governance
 - 📊 **[Trading System](https://drasticstatic.github.io/trading-assistant-public-preview/)** — AI-integrated wealth warden, personal assistant, accountability coach, success manager & analyst
-- 💹 **[DEX Arbitrage Bot](https://drasticstatic.github.io/trading-bot-arbitrage-public/)** *[decoupled]* — multi-chain MEV dashboard monitoring flash loan opportunities across liquidity pools
+  - <small>⚙️ **[System Overview](https://github.com/drasticstatic/trading-assistant-public-preview/blob/main/setup/system-overview.md)** — 📚 **[Resources](https://drasticstatic.github.io/trading-assistant-public-preview/data/progression/resources.html)** — 📉 **[Auto-Levels Indicator](https://drasticstatic.github.io/trading-assistant-public-preview/setup/auto-levels.pine_indicator-guide.html)** ← <em><small>search for it in TradingView</small></em></small>
+- 💹 **[DEX Arbitrage Bot](https://drasticstatic.github.io/trading-bot-arbitrage-public/)** *<small>[decoupled]</small>* — multi-chain MEV dashboard monitoring flash loan opportunities across liquidity pools
 - 🎓 **[DAppU Solidity Intensive](https://drasticstatic.github.io/solidity_intensive/)** — advanced EVM development cookbook for smart contract architecture & hardhat test suite
   - 💰 **[Token Crowdsale](https://drasticstatic.github.io/crowdsale/)** — ERC20 secure smart contract live contribution interface
 with real-time contribution telemetry
   - 🏛️ **[DAO](https://drasticstatic.github.io/dao/)** — on-chain governance voting framework for proposal creation, execution & lifecycle management
   - 🔄 **[LP AMM](https://drasticstatic.github.io/amm/)** — constant-product automated market maker with liquidity pool management and specialized swap UI
   - 🎨 **[NFT Punks](https://drasticstatic.github.io/nft_dappu-punks/)** — ERC721 minting engine with on-chain metadata schemas and IPFS-facilitated gallery rendering
+    - <small>**Ethereal Offering POC &nbsp; → &nbsp; 🏛️ **[EO DAO](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/governance)** &nbsp;—&nbsp; 💰 [EO Donate](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/donate)** &nbsp;**—**&nbsp; 🔄 **[EO Swap](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/swap)** &nbsp;**—**&nbsp; 🧬 **[EO NFT](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/cross-breeding)**</small>
 - 📰 **[PIR® De Vine News](https://drasticstatic.github.io/pir-devine-news-public/dashboard/)** — Psychedelics in Recovery™ fellowship's newsletter committee's digital submission hub
-  - Featuring: &nbsp; 💭 **[*Inner Voice Agent*](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** ← assistant &nbsp;&nbsp;+&nbsp;&nbsp; 🧑🏽‍💻 **[*Admin Agent Dashboard*](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** ← developer
+  - Featuring: &nbsp; 💭 **[Inner Voice Agent](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** <small>← assistant</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; 🧑🏽‍💻 **[Admin Agent Dashboard](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** <small>← developer</small>
 - 🌿 **[Wilson Lawn AI](https://drasticstatic.github.io/wilson-lawn-ai-assist-public/)** — AI-powered, voice-enabled RAG lawn care assistant built with Vite, shadcn/ui & ElevenLabs
-  - Original idea: &nbsp; ⏫ **[*GoHighLevel - Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** ← [preview] &nbsp;&nbsp;+&nbsp;&nbsp; Migration: 💖 **[*Loveable - Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** ←  [preview]
+  - Original idea: &nbsp; ⏫ **[GoHighLevel - *Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** <small>← [preview]</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; Migration: 💖 **[Loveable - *Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** <small>← [preview]</small>
 
 - 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution
+    - 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS**
 - 🛠️ **Hardened Utilities** — self-hosted specialized tools & private  productivity scripts focused on structural security
 - 🌐 **Public Scaffolding** — providing curated educational guides, resources & accessible surfaces for onboarding others
 
-🔗 **[Click <big>HERE</big> for the <big>FULL INDEX</big> of *public* <big>REPOS</big>](https://github.com/drasticstatic?tab=repositories)**
+<div align="center">
+  <br/>
+  <a href="https://github.com/drasticstatic?tab=repositories">
+    <strong>🔗 Click <big>HERE</big> for the <big>FULL INDEX</big> of <em>public</em> <big>REPOS</big></strong>
+  </a>
+</div>
+<br/>
 
 **🗯️ The WAGMI Philosophy** - As giving and receivng are one in truth, I serve to embody an optimistic, community-driven mindset that believes in the long-term collective success of decentralized systems and to mutually support the resilliance of the next generation of builders by distilling complex systems into accesible, open-source foundations with a focus on stripping down my internal projects into lightweight templates with reusable tooling and modular code snippets; whether it's a refined UI/UX layout or complex automation logic, as I build and discover, I strive to provide the public with the education and raw materials needed for bootstraping their own ideas and for the democratization of digital autonomy 🙂
 
