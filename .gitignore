@@ -1,0 +1,45 @@
+# ============================================================
+# .gitignore — drasticstatic (GitHub profile repo)
+# ============================================================
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+.fseventsd
+
+# Windows & Linux system files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Credentials & secrets (absolute — no exceptions)
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials/
+secrets/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Claude Code local config
+.claude/*
+!.claude/skills/
