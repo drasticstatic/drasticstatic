@@ -55,6 +55,7 @@ with real-time contribution telemetry
     - 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS**
 - 🛠️ **Hardened Utilities** — self-hosted specialized tools & private  productivity scripts focused on structural security
 - 🌐 **Public Scaffolding** — providing curated educational guides, resources & accessible surfaces for onboarding others
+  - 🪬 **[Dev Recruitment Safeguards](https://drasticstatic.github.io/dev-recruitment-safeguards/)** 🚦
 
 <div align="center">
   <br/>
