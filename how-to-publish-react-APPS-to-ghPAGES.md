@@ -423,6 +423,7 @@ One classic PAT can cover multiple repos — no repo selection step like fine-gr
 |---------|-------|-----|
 | Jekyll build fails with Liquid syntax error | Pages source set to branch/Jekyll, not GitHub Actions | `gh api repos/OWNER/REPO/pages --method PUT --field build_type=workflow` |
 | 404 on JS/CSS assets | Missing base path | CRA: add `homepage` to `package.json` · Vite: pass `--base=/REPO_NAME/` |
+| `homepage` set locally but Pages still blank | `package.json` has `homepage` but it was never committed — CI builds without it | `git add package.json && git commit` — verify with `git show HEAD:package.json \| grep homepage` |
 | `CI: false` missing | Warnings treated as errors | Add `CI: false` to build env in workflow (CRA only) |
 | `Authentication failed` in sync workflow | `PUBLIC_REPO_TOKEN` secret not set or expired | See Part 4 above |
 | `refusing to allow a PAT to create or update workflow files` | Token missing `workflow` scope | Edit token at github.com/settings/tokens → check `workflow` → save (token value unchanged) |
