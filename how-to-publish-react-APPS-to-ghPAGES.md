@@ -192,6 +192,108 @@ export const truncateAddress = (address) =>
   address ? `${address.slice(0, 6)}...${address.slice(-4)}` : '';
 ```
 
+### Blank white page — the no-wallet crash
+
+**Symptom:** Build succeeds, Pages is live, but the site renders a completely blank white page for visitors without MetaMask.
+
+**Cause:** `new ethers.providers.Web3Provider(window.ethereum)` throws a `TypeError` when `window.ethereum` is `undefined` (no wallet injected). The unhandled error crashes React before anything renders.
+
+This commonly lives in `App.js` directly or in a `loadProvider` / `interactions.js` helper:
+```javascript
+// ❌ Crashes without MetaMask
+const provider = new ethers.providers.Web3Provider(window.ethereum)
+```
+
+**Fix — Part 1: guard the provider instantiation**
+
+Replace the bare call with a conditional:
+```javascript
+// ✅ Falls back to read-only public RPC when no wallet present
+const provider = window.ethereum
+  ? new ethers.providers.Web3Provider(window.ethereum)
+  : new ethers.providers.JsonRpcProvider('https://rpc.sepolia.org')
+```
+
+If the provider is created in a Redux `interactions.js` file (e.g. a `loadProvider` action), apply the same guard there.
+
+**Fix — Part 2: guard `window.ethereum` event listeners**
+
+After creating the provider, event listeners like `chainChanged` / `accountsChanged` also crash without a wallet:
+```javascript
+// ❌ Crashes without MetaMask
+window.ethereum.on('chainChanged', () => { window.location.reload() })
+
+// ✅ Safe
+if (window.ethereum) {
+  window.ethereum.on('chainChanged', () => { window.location.reload() })
+  window.ethereum.on('accountsChanged', async () => { await loadAccount(dispatch) })
+}
+```
+
+**Fix — Part 3: wire in a `DAppGuard` component**
+
+A `DAppGuard` wrapper shows a friendly "No wallet detected — install MetaMask" banner instead of a blank page, while still rendering the app in read-only mode. Wrap `<App />` in `index.js`:
+
+```jsx
+// src/index.js
+import DAppGuard from './components/DAppGuard';
+
+root.render(
+  <React.StrictMode>
+    <DAppGuard>
+      <App />
+    </DAppGuard>
+  </React.StrictMode>
+);
+```
+
+**`src/components/DAppGuard.js`:**
+```jsx
+import React, { useState, useEffect } from 'react';
+
+const REQUIRED_CHAIN_ID = '0xaa36a7'; // Sepolia — update to match your deployment
+
+function DAppGuard({ children }) {
+  const [hasWallet, setHasWallet] = useState(null);
+  const [correctNetwork, setCorrectNetwork] = useState(true);
+
+  useEffect(() => {
+    if (!window.ethereum) { setHasWallet(false); return; }
+    setHasWallet(true);
+    const checkNetwork = async () => {
+      const chainId = await window.ethereum.request({ method: 'eth_chainId' });
+      setCorrectNetwork(chainId === REQUIRED_CHAIN_ID);
+    };
+    checkNetwork();
+    window.ethereum.on('chainChanged', (id) => setCorrectNetwork(id === REQUIRED_CHAIN_ID));
+  }, []);
+
+  if (hasWallet === null) return null; // still detecting
+
+  return (
+    <>
+      {!hasWallet && (
+        <div className="alert alert-warning text-center mb-0" role="alert" style={{ borderRadius: 0 }}>
+          <strong>No wallet detected.</strong>{' '}
+          Install <a href="https://metamask.io/" target="_blank" rel="noopener noreferrer">MetaMask</a> to
+          interact. <em>Read-only mode — live data still loads via public RPC.</em>
+        </div>
+      )}
+      {hasWallet && !correctNetwork && (
+        <div className="alert alert-danger text-center mb-0" role="alert" style={{ borderRadius: 0 }}>
+          <strong>Wrong network.</strong> Switch to <strong>Sepolia Testnet</strong> to interact.
+        </div>
+      )}
+      {children}
+    </>
+  );
+}
+
+export default DAppGuard;
+```
+
+> If your app uses Redux, `DAppGuard` should sit inside `<Provider store={store}>` so child components can still access the store while the guard banner is shown.
+
 ### Adding `INFURA_API_KEY` as a repo secret
 
 ```bash
@@ -263,6 +365,7 @@ One classic PAT can cover multiple repos — no repo selection step like fine-gr
 | `Authentication failed` in sync workflow | `PUBLIC_REPO_TOKEN` secret not set or expired | See Part 4 above |
 | `refusing to allow a PAT to create or update workflow files` | Token missing `workflow` scope | Edit token at github.com/settings/tokens → check `workflow` → save (token value unchanged) |
 | App loads but contract calls fail | No wallet + no fallback RPC | Add `JsonRpcProvider` fallback in `contractUtils.js` |
+| Build succeeds, Pages live, but **blank white page** | `new Web3Provider(window.ethereum)` throws when no wallet — unhandled crash | Guard provider instantiation + event listeners + wrap with `DAppGuard` — see Part 3 |
 | Build succeeds but Pages still shows old version | Pages deployment lag | Wait 1–2 min, hard refresh (`Cmd+Shift+R`) |
 
 ---
