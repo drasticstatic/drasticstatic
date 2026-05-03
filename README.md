@@ -37,7 +37,7 @@ Drawing from decades of previously serving and operating in the worlds of precis
 
 - 🌟 **[Ethereal Offering](https://drasticstatic.github.io/gratitude-token-project_docs/)** — gratitude-centric DApp ecosystem featuring soulbound DIDs, ritual intelligence & ZK governance
 - 📊 **[Trading System](https://drasticstatic.github.io/trading-assistant-public-preview/)** — AI-integrated wealth warden, personal assistant, accountability coach, success manager & analyst
-- 💹 **[DEX Arbitrage Bot](https://drasticstatic.github.io/trading-bot-arbitrage-public/)** — multi-chain MEV dashboard monitoring flash loan opportunities across liquidity pools
+- 💹 **[DEX Arbitrage Bot](https://drasticstatic.github.io/trading-bot-arbitrage-public/)** *[decoupled]* — multi-chain MEV dashboard monitoring flash loan opportunities across liquidity pools
 - 🎓 **[DAppU Solidity Intensive](https://drasticstatic.github.io/solidity_intensive/)** — advanced EVM development cookbook for smart contract architecture & hardhat test suite
   - 💰 **[Token Crowdsale](https://drasticstatic.github.io/crowdsale/)** — ERC20 secure smart contract live contribution interface
 with real-time contribution telemetry
