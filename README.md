@@ -28,22 +28,35 @@
 </div>
 
 ---
-**For two decades I served in precision manufacturing and audio engineering; today I apply that same discipline to building technological systems and tools to empower others, honor human dignity, protect personal sovereignty, and create pathways to freedom:**
-- 🌟 **[Ethereal Offering](https://drasticstatic.github.io/gratitude-token-project_docs/)** — gratitude-based DAO with soulbound DIDs, ritual intelligence & ZK governance
-- 📊 **[Trading Systems](https://drasticstatic.github.io/trading-assistant-public-preview/)** — AI-assisted wealth warden, assistant, accountability coach, success manager & analyst
-- 🌿 **[Wilson Lawn AI](https://drasticstatic.github.io/wilson-lawn-ai-assist-public/)** — AI-powered lawn care assistant built with Vite, shadcn/ui & ElevenLabs voice
-- 💹 **[DEX Arbitrage Bot](https://drasticstatic.github.io/trading-bot-arbitrage-public/)** — flash loan arbitrage dashboard monitoring Uniswap V3 & PancakeSwap V3
-- 📰 **[PIR Devine News](https://drasticstatic.github.io/pir-devine-news-public/dashboard/)** — newsletter committee hub for the Psychedelics in Recovery® fellowship
-- 🎓 **[DAPPU Solidity Intensive](https://drasticstatic.github.io/solidity_intensive/)** — blockchain developer bootcamp coursework & DApp exercises
-- 🏛️ **[DAO DApp](https://drasticstatic.github.io/dao/)** — governance voting DApp with on-chain proposal creation & execution
-- 💰 **[Crowdsale DApp](https://drasticstatic.github.io/crowdsale/)** — token crowdsale smart contract with live contribution interface
-- 🔄 **[AMM DApp](https://drasticstatic.github.io/amm/)** — automated market maker with liquidity pool management & swap UI
-- 🎨 **[NFT DAppU Punks](https://drasticstatic.github.io/nft_dappu-punks/)** — NFT minting DApp with collection gallery & on-chain metadata
-- 🤖 **AI Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning and production execution
-- 🛠️ **Private Tools** — specialized, self-hosted utilities & productivity scripts focused on digital autonomy & structural security
-- 🌐 **[Public Surfaces](https://github.com/drasticstatic?tab=repositories)** — providing educational guides, resources & accessible scaffolding for others
+<div align="center">
+<strong>Full-stack Engineer | Specialized in Blockchain Architecture & AI Orchestration</strong>
+</div>
+<br/>
 
-I believe in open-source foundations for the next generation of builders by stripping down my internal projects into accessible, lightweight reusable templates, tooling, and code snippets. From refined layouts to complex automation scripts, providing the community with education and raw materials needed to bootstrap their own ideas 🙂
+Drawing from decades of previously serving and operating in the worlds of precision manufacturing and audio engineering, I now apply and translate that same attentive high-tolerance discipline and observation to building technological systems and tools to empower others, honor and protect human dignity, prioritize personal sovereignty, and create pathways to freedom:**
+
+- 🌟 **[Ethereal Offering](https://drasticstatic.github.io/gratitude-token-project_docs/)** — gratitude-centric DApp ecosystem featuring soulbound DIDs, ritual intelligence & ZK governance
+- 📊 **[Trading System](https://drasticstatic.github.io/trading-assistant-public-preview/)** — AI-integrated wealth warden, personal assistant, accountability coach, success manager & analyst
+- 💹 **[DEX Arbitrage Bot](https://drasticstatic.github.io/trading-bot-arbitrage-public/)** — multi-chain MEV dashboard monitoring flash loan opportunities across liquidity pools
+- 🎓 **[DAppU Solidity Intensive](https://drasticstatic.github.io/solidity_intensive/)** — advanced EVM development cookbook for smart contract architecture & hardhat test suite
+  - 💰 **[Token Crowdsale](https://drasticstatic.github.io/crowdsale/)** — ERC20 secure smart contract live contribution interface
+with real-time contribution telemetry
+  - 🏛️ **[DAO](https://drasticstatic.github.io/dao/)** — on-chain governance voting framework for proposal creation, execution & lifecycle management
+  - 🔄 **[LP AMM](https://drasticstatic.github.io/amm/)** — constant-product automated market maker with liquidity pool management and specialized swap UI
+  - 🎨 **[NFT Punks](https://drasticstatic.github.io/nft_dappu-punks/)** — ERC721 minting engine with on-chain metadata schemas and IPFS-facilitated gallery rendering
+- 📰 **[PIR® De Vine News](https://drasticstatic.github.io/pir-devine-news-public/dashboard/)** — Psychedelics in Recovery™ fellowship's newsletter committee's digital submission hub
+  - Featuring: &nbsp; 💭 **[*Inner Voice Agent*](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** ← assistant &nbsp;&nbsp;+&nbsp;&nbsp; 🧑🏽‍💻 **[*Admin Agent Dashboard*](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** ← developer
+- 🌿 **[Wilson Lawn AI](https://drasticstatic.github.io/wilson-lawn-ai-assist-public/)** — AI-powered, voice-enabled RAG lawn care assistant built with Vite, shadcn/ui & ElevenLabs
+  - Original idea: &nbsp; ⏫ **[*GoHighLevel - Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** ← [preview] &nbsp;&nbsp;+&nbsp;&nbsp; Migration: 💖 **[*Loveable - Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** ←  [preview]
+
+- 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution
+- 🛠️ **Hardened Utilities** — self-hosted specialized tools & private  productivity scripts focused on structural security
+- 🌐 **Public Scaffolding** — providing curated educational guides, resources & accessible surfaces for onboarding others
+
+🔗 **[Click <big>HERE</big> for the <big>FULL INDEX</big> of *public* <big>REPOS</big>](https://github.com/drasticstatic?tab=repositories)**
+
+**🗯️ The WAGMI Philosophy** - As giving and receivng are one in truth, I serve to embody an optimistic, community-driven mindset that believes in the long-term collective success of decentralized systems and to mutually support the resilliance of the next generation of builders by distilling complex systems into accesible, open-source foundations with a focus on stripping down my internal projects into lightweight templates with reusable tooling and modular code snippets; whether it's a refined UI/UX layout or complex automation logic, as I build and discover, I strive to provide the public with the education and raw materials needed for bootstraping their own ideas and for the democratization of digital autonomy 🙂
+
 
 ---
 
