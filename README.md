@@ -52,7 +52,7 @@ with real-time contribution telemetry
   - Original idea: &nbsp; ⏫ **[GoHighLevel - *Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** <small>← [preview]</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; Migration: 💖 **[Loveable - *Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** <small>← [preview]</small>
 
 - 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution
-    - 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS** — 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <small>← [NVIDIA NIM]</small>
+    - 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS** — 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <small>← [![NVIDIA NIM](https://img.shields.io/badge/Powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</small>
 - 🛠️ **Hardened Utilities** — self-hosted specialized tools & private  productivity scripts focused on structural security
 - 🌐 **Public Scaffolding** — providing curated educational guides, resources & accessible surfaces for onboarding others
   - 🪬 **[Dev Recruitment Safeguards](https://drasticstatic.github.io/dev-recruitment-safeguards/)** 🚦
