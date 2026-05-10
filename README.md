@@ -70,7 +70,9 @@ with real-time contribution telemetry
 ---
 
 <div align="center">
+  
 [![3D Profile](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml/badge.svg)](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml)
+
 </div>
 
 ---
