@@ -24,9 +24,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/drasticstatic)
 &nbsp;
 [![Farcaster](https://img.shields.io/badge/Farcaster-855DCD?style=flat&logo=farcaster&logoColor=white)](https://farcaster.xyz/drasticstatic)
-&nbsp;
-[![3D Profile](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml/badge.svg)](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml)
-
 </div>
 
 ---
@@ -70,10 +67,10 @@ with real-time contribution telemetry
 
 **🗯️ The WAGMI Philosophy** - <em> As giving and receivng are one in truth, I serve to embody an optimistic, community-driven mindset that believes in the long-term collective success of decentralized systems and to mutually support the resilliance of the next generation of builders by distilling complex systems into accesible, open-source foundations with a focus on stripping down my internal projects into lightweight templates with reusable tooling and modular code snippets; whether it's a refined UI/UX layout or complex automation logic, as I build and discover, I strive to provide the public with the education and raw materials needed for bootstraping their own ideas and for the democratization of digital autonomy</em> 🙂
 
-
 ---
 
 <div align="center">
+[![3D Profile](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml/badge.svg)](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml)
 
 <!-- Generated nightly by github-profile-3d-contrib workflow -->
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
