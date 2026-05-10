@@ -60,8 +60,8 @@ with real-time contribution telemetry
 <div align="center">
   <br/>
   <a href="https://github.com/drasticstatic?tab=repositories">
-    <strong>🔗 Click <big>HERE</big> for the <big>FULL INDEX</big> of <em>public</em> <big>REPOS</big></strong>
-  </a> <a href="https://code.claude.com/docs/en/cli-reference"><img src="https://img.shields.io/badge/Status-%F0%9F%94%A7%20In%20Development-orange" alt="Status" style="vertical-align: middle;"></a>
+    <strong>🔗 Click <big>HERE</big> for the <big>FULL INDEX</big> of <em>public</em> <big></big></strong>
+  </a> <a href="https://code.claude.com/docs/en/cli-reference"><img src="https://img.shields.io/badge/Status-%F0%9F%94%A7%20In%20Development-yellow" alt="REPOS" style="vertical-align: middle;"></a>
 </div>
 <br/>
 
