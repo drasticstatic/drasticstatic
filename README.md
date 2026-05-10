@@ -70,10 +70,14 @@ with real-time contribution telemetry
 ---
 
 <div align="center">
+[![3D Profile](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml/badge.svg)](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml)
+</div>
+
+---
+
+<div align="center">
 <!-- Generated nightly by github-profile-3d-contrib workflow -->
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
-<br/>
-[![3D Profile](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml/badge.svg)](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml)
 </div>
 
 ---
