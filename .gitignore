@@ -43,3 +43,9 @@ temp/
 # Claude Code local config
 .claude/*
 !.claude/skills/
+!.claude/settings.json
+
+# Graphify — local-only outputs (graph.json, GRAPH_REPORT.md, graph.html are committed)
+graphify-out/manifest.json
+graphify-out/cost.json
+graphify-out/cache/
