@@ -61,7 +61,7 @@ with real-time contribution telemetry
   <br/>
   <a href="https://github.com/drasticstatic?tab=repositories">
     <strong>🔗 Click <big>HERE</big> for the <big>FULL INDEX</big> of <em>public</em>&nbsp;</strong>
-    <img src="https://img.shields.io/badge/Status-%F0%9F%94%A7%20In%20Development-yellow" alt="REPOS" style="vertical-align: middle; margin-left: 8px;">
+    <img src="https://img.shields.io/badge/REPOS-%F0%9F%94%A7%20In%20Development-yellow" alt="REPOS" style="vertical-align: middle; margin-left: 8px;">
   </a>
 </div>
 <br/>
