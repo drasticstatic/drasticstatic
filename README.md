@@ -24,6 +24,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/drasticstatic)
 &nbsp;
 [![Farcaster](https://img.shields.io/badge/Farcaster-855DCD?style=flat&logo=farcaster&logoColor=white)](https://farcaster.xyz/drasticstatic)
+&nbsp;
+[![3D Profile](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml/badge.svg)](https://github.com/drasticstatic/drasticstatic/actions/workflows/3d-profile.yml)
 
 </div>
 
