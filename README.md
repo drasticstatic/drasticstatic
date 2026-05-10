@@ -60,7 +60,7 @@ with real-time contribution telemetry
 <div align="center">
   <br/>
   <a href="github.com">
-    <strong>🔗 Click <big>HERE</big> for the <big>FULL INDEX</big> of <em>public</em> </strong>
+    <strong>🔗 Click <big>HERE</big> for the <big>FULL INDEX</big> of <em>public</em>&nbsp;</strong>
     <img src="shields.io" alt="REPOS" style="vertical-align: middle; margin-left: 8px;">
   </a>
 </div>
