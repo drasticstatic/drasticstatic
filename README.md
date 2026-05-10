@@ -61,8 +61,8 @@ with real-time contribution telemetry
   <br/>
   <a href="https://github.com/drasticstatic?tab=repositories">
     <strong>🔗 Click <big>HERE</big> for the <big>FULL INDEX</big> of <em>public</em> <big>REPOS</big></strong>
-  </a>[![Status](https://img.shields.io/badge/Status-%F0%9F%94%A7%20In%20Development-orange)](https://code.claude.com/docs/en/cli-reference)
-</div>
+  </a>
+</div> [![Status](https://img.shields.io/badge/Status-%F0%9F%94%A7%20In%20Development-orange)](https://code.claude.com/docs/en/cli-reference)
 <br/>
 
 **🗯️ The WAGMI Philosophy** - <em> As giving and receivng are one in truth, I serve to embody an optimistic, community-driven mindset that believes in the long-term collective success of decentralized systems and to mutually support the resilliance of the next generation of builders by distilling complex systems into accesible, open-source foundations with a focus on stripping down my internal projects into lightweight templates with reusable tooling and modular code snippets; whether it's a refined UI/UX layout or complex automation logic, as I build and discover, I strive to provide the public with the education and raw materials needed for bootstraping their own ideas and for the democratization of digital autonomy</em> 🙂
