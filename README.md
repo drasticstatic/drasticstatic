@@ -48,9 +48,9 @@ with real-time contribution telemetry
 
 🌐 **Development Sandboxes** — companion experiments for other sites I help manage
 - 📰 **[PIR® De Vine News](https://drasticstatic.github.io/pir-devine-news-public/dashboard/)** — Psychedelics in Recovery™ fellowship's newsletter committee's digital submission hub
-  - Featuring: &nbsp; 💭 **[Inner Voice Agent](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** <small>← assistant</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; 🧑🏽‍💻 **[Admin Agent Dashboard](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** <small>← developer</small> · <tiny>Wordpress -+> HTML</tiny>
+  - Featuring: &nbsp; 💭 **[Inner Voice Agent](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** <small>← assistant</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; 🧑🏽‍💻 **[Admin Agent Dashboard](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** <small>← developer</small> · <sup>Wordpress -+> HTML</sup>
 - 😇 **[IAmOneSelf](https://drasticstatic.github.io/iamoneself-public-preview/)** 🦅 The Holy Earth Foundation's retreat learning portal · Wix -+> Next.js
-  - Featuring: &nbsp; 🔍 **[Static Search Engine](https://drasticstatic.github.io/iamoneself-public-preview/404)** <small>← [![PageFind](https://img.shields.io/badge/Powered%20by-Page%20Find-76b900)](https://github.com/CloudCannon/pagefind)</small>
+  - Featuring: &nbsp; 🔍 **[Static Search Engine](https://drasticstatic.github.io/iamoneself-public-preview/404)** <sub>← [![PageFind](https://img.shields.io/badge/Powered%20by-Page%20Find-76b900)](https://github.com/CloudCannon/pagefind)</sub>
   + global, agentic, guided FAQ deep-link search, intake collection, and admin</small>
 - 🌿 **[Wilson Lawn AI](https://drasticstatic.github.io/wilson-lawn-ai-assist-public/)** — AI-powered, voice-enabled RAG lawn care assistant built with Vite, shadcn/ui & ElevenLabs
   - Original idea: &nbsp; ⏫ **[GoHighLevel - *Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** <small>← [preview]</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; Migration: 💖 **[Loveable - *Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** <small>← [preview]</small>
