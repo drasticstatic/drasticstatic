@@ -48,17 +48,17 @@ with real-time contribution telemetry
 
 🌐 **Development Sandboxes** — companion experiments for other sites I help manage
 - 📰 **[PIR® De Vine News](https://drasticstatic.github.io/pir-devine-news-public/dashboard/)** — Psychedelics in Recovery™ fellowship's newsletter committee's digital submission hub
-  - Featuring: &nbsp; 💭 **[Inner Voice Agent](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** <small>← assistant</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; 🧑🏽‍💻 **[Admin Agent Dashboard](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** <small>← developer</small> · <sup>Wordpress -+> HTML</sup>
-- 😇 **[IAmOneSelf](https://drasticstatic.github.io/iamoneself-public-preview/)** 🦅 The Holy Earth Foundation's retreat learning portal · Wix -+> Next.js
-  - Featuring: &nbsp; 🔍 **[Static Search Engine](https://drasticstatic.github.io/iamoneself-public-preview/404)** <sub>← [![PageFind](https://img.shields.io/badge/Powered%20by-Page%20Find-76b900)](https://github.com/CloudCannon/pagefind)</sub>
+  - Featuring: &nbsp; 💭 **[Inner Voice Agent](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** <small>← assistant</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; 🧑🏽‍💻 **[Admin Agent Dashboard](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** <small>← developer</small><sup> · Wordpress -+> HTML</sup>
+- 😇 **[IAmOneSelf](https://drasticstatic.github.io/iamoneself-public-preview/)** 🦅 The Holy Earth Foundation's retreat learning portal<sup> · Wix -+> Next.js</sup>
+  - Featuring: &nbsp; 🔍 **[Static Search Engine](https://drasticstatic.github.io/iamoneself-public-preview/404)** <sub>← [![PageFind](https://img.shields.io/badge/powered%20by-PageFind-76b900)](https://github.com/CloudCannon/pagefind)</sub>
   + global, agentic, guided FAQ deep-link search, intake collection, and admin</small>
 - 🌿 **[Wilson Lawn AI](https://drasticstatic.github.io/wilson-lawn-ai-assist-public/)** — AI-powered, voice-enabled RAG lawn care assistant built with Vite, shadcn/ui & ElevenLabs
-  - Original idea: &nbsp; ⏫ **[GoHighLevel - *Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** <small>← [preview]</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; Migration: 💖 **[Loveable - *Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** <small>← [preview]</small>
-- 🫴🏼 **[DPNelson](https://github.com/drasticstatic/dpnelson)** — Douglas Nelson's IFS (Internal Family Systems) coaching practice · Wordpress -+> Vite
-- 🪶 **[FindYourFeathers](https://drasticstatic.github.io/findyourfeathers-public-preview/)** — Heather Randolph's Metaphysical Holistic Healing Practice · Wix -+> next.js
+  - Original idea: &nbsp; ⏫ **[GoHighLevel - *Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** <sub>← [preview]</sub> &nbsp;&nbsp;**+**&nbsp;&nbsp; Migration: 💖 **[Loveable - *Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** <sub>← [preview]</sub>
+- 🫴🏼 **[DPNelson](https://github.com/drasticstatic/dpnelson)** — Douglas Nelson's IFS (Internal Family Systems) coaching practice<sup> · Wordpress -+> Vite</sup>
+- 🪶 **[FindYourFeathers](https://drasticstatic.github.io/findyourfeathers-public-preview/)** — Heather Randolph's Metaphysical Holistic Healing Practice<sup> · Wix -+> next.js</sup>
 
 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution
-- 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS** — 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <small>← [![NVIDIA NIM](https://img.shields.io/badge/Powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</small>
+- 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS** — 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <sub>← [![NVIDIA NIM](https://img.shields.io/badge/powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</sub>
 
 🛠️ **Hardened Utilities** — self-hosted specialized tools & private  productivity scripts focused on structural security
 
