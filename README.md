@@ -48,7 +48,7 @@ with real-time contribution telemetry
 
 🌐 **Development Sandboxes** — companion experiments for other sites I help manage
 - 📰 **[PIR® De Vine News](https://drasticstatic.github.io/pir-devine-news-public/dashboard/)** — Psychedelics in Recovery™ fellowship's newsletter committee's digital submission hub
-  - Featuring: &nbsp; 💭 **[Inner Voice Agent](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** <small>← assistant</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; 🧑🏽‍💻 **[Admin Agent Dashboard](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** <small>← developer</small> · Wordpress -+> HTML
+  - Featuring: &nbsp; 💭 **[Inner Voice Agent](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** <small>← assistant</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; 🧑🏽‍💻 **[Admin Agent Dashboard](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** <small>← developer</small> · <tiny>Wordpress -+> HTML</tiny>
 - 😇 **[IAmOneSelf](https://drasticstatic.github.io/iamoneself-public-preview/)** 🦅 The Holy Earth Foundation's retreat learning portal · Wix -+> Next.js
   - Featuring: &nbsp; 🔍 **[Static Search Engine](https://drasticstatic.github.io/iamoneself-public-preview/404)** <small>← [![PageFind](https://img.shields.io/badge/Powered%20by-Page%20Find-76b900)](https://github.com/CloudCannon/pagefind)</small>
   + global, agentic, guided FAQ deep-link search, intake collection, and admin</small>
