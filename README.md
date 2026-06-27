@@ -46,7 +46,7 @@ with real-time contribution telemetry
   - 🎨 **[NFT Punks](https://drasticstatic.github.io/nft_dappu-punks/)** — ERC721 minting engine with on-chain metadata schemas and IPFS-facilitated gallery rendering
     - <small>**Ethereal Offering <sup>POC</sup> &nbsp; → &nbsp; 🏛️ **[<sub>EO</sub>DAO](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/governance)** &nbsp;—&nbsp; 💰 [<sub>EO</sub>Donate](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/donate)** &nbsp;**—**&nbsp; 🔄 **[<sub>EO</sub>Swap](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/swap)** &nbsp;**—**&nbsp; 🧬 **[<sub>EO</sub>NFT](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/cross-breeding)**</small>
 
-🚧 **Development Sandboxes** 👷 companion experiments for other sites I help manage
+🚧 **Development Sandboxes** 👷 companion experiments for other sites I help manage:
 - 📰 **[PIR® De Vine News](https://drasticstatic.github.io/pir-devine-news-public/dashboard/)** — Psychedelics in Recovery™ fellowship's newsletter committee's digital submission hub
   - Featuring: &nbsp; 💭 **[Inner Voice Agent](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** <small>← assistant</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; 🧑🏽‍💻 **[Admin Agent Dashboard](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** <small>← developer</small><sub> · <em>Wordpress -+> HTML</em></sub>
 - 😇 **[IAmOneSelf](https://drasticstatic.github.io/iamoneself-public-preview/)** 🦅 The Holy Earth Foundation's retreat learning portal<sub> · <em>Wix -+> Next.js</em></sub>
@@ -57,12 +57,12 @@ with real-time contribution telemetry
 - 🫴🏼 **[DPNelson](https://github.com/drasticstatic/dpnelson-public-preview)** — Douglas Nelson's IFS (Internal Family Systems) coaching practice<sub> · <em>Wordpress -+> Vite</em></sub>
 - 🪶 **[FindYourFeathers](https://drasticstatic.github.io/findyourfeathers-public-preview/)** — Heather Randolph's Metaphysical Holistic Healing Practice<sub> · <em>Wix -+> Next.js</em></sub>
 
-🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution
+🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution:
 - 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS** — 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <sub>← [![NVIDIA NIM](https://img.shields.io/badge/powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</sub>
 
 🛠️ **Hardened Utilities** — self-hosted specialized tools & private  productivity scripts focused on structural security
 
-🌐 **Public Scaffolding** — providing curated educational guides, resources & accessible surfaces for onboarding others
+🌐 **Public Scaffolding** — providing curated educational guides, resources & accessible surfaces for onboarding others:
   - 🪬 **[Dev Recruitment Safeguards](https://drasticstatic.github.io/dev-recruitment-safeguards/)** 🚦
 
 <div align="center">
