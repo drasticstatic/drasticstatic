@@ -46,7 +46,7 @@ with real-time contribution telemetry
   - 🎨 **[NFT Punks](https://drasticstatic.github.io/nft_dappu-punks/)** — ERC721 minting engine with on-chain metadata schemas and IPFS-facilitated gallery rendering
     - <small>**Ethereal Offering <sup>POC</sup> &nbsp; → &nbsp; 🏛️ **[<sub>EO</sub>DAO](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/governance)** &nbsp;—&nbsp; 💰 [<sub>EO</sub>Donate](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/donate)** &nbsp;**—**&nbsp; 🔄 **[<sub>EO</sub>Swap](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/swap)** &nbsp;**—**&nbsp; 🧬 **[<sub>EO</sub>NFT](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/cross-breeding)**</small>
 
-🌐 **Development Sandboxes** — companion experiments for other sites I help manage
+🚧 **Development Sandboxes** 👷 companion experiments for other sites I help manage
 - 📰 **[PIR® De Vine News](https://drasticstatic.github.io/pir-devine-news-public/dashboard/)** — Psychedelics in Recovery™ fellowship's newsletter committee's digital submission hub
   - Featuring: &nbsp; 💭 **[Inner Voice Agent](https://drasticstatic.github.io/pir-devine-news-public/dashboard/submit-agent.html)** <small>← assistant</small> &nbsp;&nbsp;**+**&nbsp;&nbsp; 🧑🏽‍💻 **[Admin Agent Dashboard](https://drasticstatic.github.io/pir-devine-news-public/dashboard/admin.html)** <small>← developer</small><sub> · <em>Wordpress -+> HTML</em></sub>
 - 😇 **[IAmOneSelf](https://drasticstatic.github.io/iamoneself-public-preview/)** 🦅 The Holy Earth Foundation's retreat learning portal<sub> · <em>Wix -+> Next.js</em></sub>
@@ -54,7 +54,7 @@ with real-time contribution telemetry
   + global, agentic, guided FAQ deep-link search, intake collection, and admin</small>
 - 🌿 **[Wilson Lawn AI](https://drasticstatic.github.io/wilson-lawn-ai-assist-public/)** — AI-powered, voice-enabled RAG lawn care assistant<sub> · <em>Vite, shadcn/ui & ElevenLabs</em></sub>
   - Original idea: &nbsp; ⏫ **[GoHighLevel - *Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** <sub>← [preview]</sub> &nbsp;&nbsp;**+**&nbsp;&nbsp; Migration: 💖 **[Loveable - *Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** <sub>← [preview]</sub>
-- 🫴🏼 **[DPNelson](https://github.com/drasticstatic/dpnelson)** — Douglas Nelson's IFS (Internal Family Systems) coaching practice<sub> · <em>Wordpress -+> Vite</em></sub>
+- 🫴🏼 **[DPNelson](https://github.com/drasticstatic/dpnelson-public-preview)** — Douglas Nelson's IFS (Internal Family Systems) coaching practice<sub> · <em>Wordpress -+> Vite</em></sub>
 - 🪶 **[FindYourFeathers](https://drasticstatic.github.io/findyourfeathers-public-preview/)** — Heather Randolph's Metaphysical Holistic Healing Practice<sub> · <em>Wix -+> Next.js</em></sub>
 
 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution
