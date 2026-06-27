@@ -32,7 +32,7 @@
 </div>
 <br/>
 
-Drawing from decades of previously serving and operating in the worlds of precision manufacturing and audio engineering, I now apply and translate that same attentive high-tolerance discipline and observation to building technological systems and tools to empower others, honor and protect human dignity, prioritize personal sovereignty, and create pathways to freedom:**
+Drawing from decades of previously serving and operating in the worlds of precision manufacturing and audio engineering, I now apply and translate that same attentive high-tolerance discipline and observation to building technological systems and tools to empower others, honor and protect human dignity, prioritize personal sovereignty, and create pathways to freedom 🙏🏽
 
 - 🌟 **[Ethereal Offering](https://drasticstatic.github.io/gratitude-token-project_docs/)** — gratitude-centric DApp ecosystem featuring soulbound DIDs, ritual intelligence & ZK governance
 - 📊 **[Trading System](https://drasticstatic.github.io/trading-assistant-public-preview/)** — AI-integrated wealth warden, personal assistant, accountability coach, success manager & analyst
