@@ -58,13 +58,13 @@ with real-time contribution telemetry
 - 🪶 **[FindYourFeathers](https://drasticstatic.github.io/findyourfeathers-public-preview/)** — Heather Randolph's Metaphysical Holistic Healing Practice<sub> · <em>Wix -+> Next.js</em></sub>
 
 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution:
-- 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS** — 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <sub>← [![NVIDIA NIM](https://img.shields.io/badge/powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</sub>
+- 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS**
+— 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <sub>← [![NVIDIA NIM](https://img.shields.io/badge/powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</sub> · ⛓️‍💥 **[Divorce-Custody Assist](https://drasticstatic.github.io/divorce-custody-assistant-public-preview/)** ⚖️
 
 🛠️ **Hardened Utilities** — self-hosted specialized tools & private productivity scripts focused on structural security
-  - ⛓️‍💥 **[Divorce-Custody Assist](https://drasticstatic.github.io/divorce-custody-assistant-public-preview/)** ⚖️
 
 🌐 **[Public Scaffolding](https://github.com/drasticstatic/my-template)** — providing curated educational guides, resources & accessible surfaces for onboarding others:
-  - 🤔 **[How-To...md](https://github.com/drasticstatic/drasticstatic/)** 🪬 **[Dev Recruitment Safeguards](https://drasticstatic.github.io/dev-recruitment-safeguards/)** 🚦
+  - 🤔 **[How-To...md](https://github.com/drasticstatic/drasticstatic/)** · 🪬 · **[Dev Recruitment Safeguards](https://drasticstatic.github.io/dev-recruitment-safeguards/)** 🚦
 
 <div align="center">
   <br/>
