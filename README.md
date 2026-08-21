@@ -60,7 +60,7 @@ with real-time contribution telemetry
 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution:
   - 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS**
   - 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <sub>← [![NVIDIA NIM](https://img.shields.io/badge/powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</sub> cross-repo awareness/privacy-firewall model
-  - ⛓️‍💥**[Divorce-Custody Assist](https://drasticstatic.github.io/divorce-custody-assistant-public-preview/)** ⚖️ &nbsp;&&nbsp;&nbsp;**[Tax Assist](https://drasticstatic.github.io/tax-assistant-public-preview/)** 🪙
+    - ⛓️‍💥 **[Divorce-Custody Assist](https://drasticstatic.github.io/divorce-custody-assistant-public-preview/)** ⚖️ &nbsp;&&nbsp;&nbsp; **[Tax Assist](https://drasticstatic.github.io/tax-assistant-public-preview/)** 🪙
 
 🛠️ **Hardened Utilities** — self-hosted specialized tools & private productivity scripts focused on structural security
 
