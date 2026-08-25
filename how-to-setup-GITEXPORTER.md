@@ -270,4 +270,30 @@ Ready-to-use config files live in [`drasticstatic/my-template`](https://github.c
 
 ---
 
+## Update — 2026-08-25: Tool 1 (gitexporter CLI) is currently broken, use Tool 2 only
+
+`npx gitexporter` depends on `nodegit`, a native C binding for libgit2. As of mid-2026, `nodegit`
+fails to compile on modern macOS/Node (`cmake` isn't installed by default, and even with it the
+node-gyp build chain is fragile across Node 20/22/23) — the failure is silent, exiting with code 1
+and no useful output, which made it hard to diagnose the first time it was hit.
+
+**Practical effect:** every repo in this ecosystem now relies on **Tool 2 (`sync-public.yml`)
+alone** — the GitHub Actions pipeline never depended on `nodegit`/`gitexporter` in the first place,
+it's pure shell + `git filter-repo` running on GitHub's runners, so it was unaffected. Skip Tool 1
+entirely when setting up a new sync pair; go straight to the "Setup steps" under Tool 2.
+
+`gitexporter.config.json` is still worth keeping in each repo as **documentation of the denylist
+contract** (what should stay private), even though nothing actually executes it — `sync-public.yml`'s
+`git filter-repo --path` list is the real source of truth and should be kept in sync with it by hand.
+
+For the full troubleshooting journey (the specific errors hit, the dead ends, and the proven
+end-to-end pattern with a working repo's history) see
+[`my-template/workflow-templates/GITEXPORTER-TO-ACTIONS-SYNC.md`](https://github.com/drasticstatic/my-template/blob/main/workflow-templates/GITEXPORTER-TO-ACTIONS-SYNC.md).
+
+Given Tool 1 is dead, the "Synced via GitExporter" badge above is now more accurately "Synced via
+GitHub Actions (GitExporter-inspired)" — see that same doc for the reasoning; repos across this
+ecosystem have been updated to use the corrected badge wording.
+
+---
+
 *Maintained by [drasticstatic](https://github.com/drasticstatic)*
