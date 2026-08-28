@@ -52,7 +52,7 @@ with real-time contribution telemetry
 - 😇 **[IAmOneSelf](https://drasticstatic.github.io/iamoneself-public-preview/)** 🦅 The Holy Earth Foundation's retreat learning portal<sub> · <em>Wix -+> Next.js</em></sub>
   - Featuring: &nbsp; 🔍 **[Static Search Engine](https://drasticstatic.github.io/iamoneself-public-preview/404)** <sub>← [![PageFind](https://img.shields.io/badge/powered%20by-PageFind-76b900)](https://github.com/CloudCannon/pagefind)</sub>
   + global, agentic, guided FAQ deep-link search, intake collection, and admin</small>
-- 🎨 **[David Amaringo](https://drasticstatic.github.io/david-amaringo-public-preview/)** — Promoting web3-ready crowdfunding publicity for Neo-Amazónico visionary artist & Chaiconi Bari teacher
+- 🎨 **[David Amaringo](https://drasticstatic.github.io/david-amaringo-public-preview/)** — Promoting web3-ready crowdfunding publicity · Neo-Amazónico visionary artist & ChaiconiBari teacher
 - 🌿 **[Wilson Lawn AI](https://drasticstatic.github.io/wilson-lawn-ai-assist-public/)** — AI-powered, voice-enabled RAG lawn care assistant<sub> · <em>Vite, shadcn/ui & ElevenLabs</em></sub>
   - Original idea: &nbsp; ⏫ **[GoHighLevel - *Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** <sub>← [preview]</sub> &nbsp;&nbsp;**+**&nbsp;&nbsp; Migration: 💖 **[Loveable - *Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** <sub>← [preview]</sub>
 - 🫴🏼 **[DPNelson](https://github.com/drasticstatic/dpnelson-public-preview)** — Douglas Nelson's IFS (Internal Family Systems) coaching practice<sub> · <em>Wordpress -+> Vite</em></sub>
