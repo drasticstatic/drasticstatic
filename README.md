@@ -43,7 +43,7 @@ Drawing from decades of previously serving and operating in the worlds of precis
 with real-time contribution telemetry
   - 🏛️ **[DAO](https://drasticstatic.github.io/dao/)** — on-chain governance voting framework for proposal creation, execution & lifecycle management
   - 🔄 **[LP AMM](https://drasticstatic.github.io/amm/)** — constant-product automated market maker with liquidity pool management and specialized swap UI
-  - 🎨 **[NFT Punks](https://drasticstatic.github.io/nft_dappu-punks/)** — ERC721 minting engine with on-chain metadata schemas and IPFS-facilitated gallery rendering
+  - 🖼️ **[NFT Punks](https://drasticstatic.github.io/nft_dappu-punks/)** — ERC721 minting engine with on-chain metadata schemas and IPFS-facilitated gallery rendering
     - <small>**Ethereal Offering <sup>POC</sup> &nbsp; → &nbsp; 🏛️ **[<sub>EO</sub>DAO](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/governance)** &nbsp;—&nbsp; 💰 [<sub>EO</sub>Donate](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/donate)** &nbsp;**—**&nbsp; 🔄 **[<sub>EO</sub>Swap](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/swap)** &nbsp;**—**&nbsp; 🧬 **[<sub>EO</sub>NFT](https://drasticstatic.github.io/gratitude-token-project_testPublish_2026-01-05/cross-breeding)**</small>
 
 🚧 **Development Sandboxes** 👷 companion experiments for other sites I help manage:
@@ -52,6 +52,7 @@ with real-time contribution telemetry
 - 😇 **[IAmOneSelf](https://drasticstatic.github.io/iamoneself-public-preview/)** 🦅 The Holy Earth Foundation's retreat learning portal<sub> · <em>Wix -+> Next.js</em></sub>
   - Featuring: &nbsp; 🔍 **[Static Search Engine](https://drasticstatic.github.io/iamoneself-public-preview/404)** <sub>← [![PageFind](https://img.shields.io/badge/powered%20by-PageFind-76b900)](https://github.com/CloudCannon/pagefind)</sub>
   + global, agentic, guided FAQ deep-link search, intake collection, and admin</small>
+- 🎨 **[David Amaringo](https://drasticstatic.github.io/david-amaringo-public-preview/)** — Promoting web3-ready crowdfunding publicity · Neo-Amazónico visionary artist & ChaiconiBari teacher
 - 🌿 **[Wilson Lawn AI](https://drasticstatic.github.io/wilson-lawn-ai-assist-public/)** — AI-powered, voice-enabled RAG lawn care assistant<sub> · <em>Vite, shadcn/ui & ElevenLabs</em></sub>
   - Original idea: &nbsp; ⏫ **[GoHighLevel - *Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** <sub>← [preview]</sub> &nbsp;&nbsp;**+**&nbsp;&nbsp; Migration: 💖 **[Loveable - *Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** <sub>← [preview]</sub>
 - 🫴🏼 **[DPNelson](https://github.com/drasticstatic/dpnelson-public-preview)** — Douglas Nelson's IFS (Internal Family Systems) coaching practice<sub> · <em>Wordpress -+> Vite</em></sub>
