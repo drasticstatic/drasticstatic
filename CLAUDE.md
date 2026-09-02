@@ -40,3 +40,9 @@ or how-to docs. No trading or web3 build context needed here.
 
 - CLAUDE.md is NOT gitignored here — this repo is public docs/profile content, no secrets
 - Profile README edits are safe to commit and push directly
+
+---
+
+## Commit Convention
+
+Footer: `Co-Authored-By: Alfred · Claude · [model] <noreply@anthropic.com>`
