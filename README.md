@@ -60,6 +60,8 @@ with real-time contribution telemetry
 
 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution:
   - 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS**
+  - 🧑‍🍳 **[Aunt *Harriot*](https://drasticstatic.github.io/aunt-harriot-public-preview/)** — forked Alfred harness authenticated by a visitor's API key
+  - 🪄 **[Mystarch *ClaudeMent*](https://drasticstatic.github.io/mystarch-public-preview/)** — durable Intent git history for Auggie's app-level Chief of Staff persona
   - 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <sub>← [![NVIDIA NIM](https://img.shields.io/badge/powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</sub> cross-repo awareness/privacy-firewall model
     - & specialized: ⛓️‍💥 **[Divorce-Custody Assist](https://drasticstatic.github.io/divorce-custody-assistant-public-preview/)** ⚖️ &nbsp;&&nbsp;&nbsp; **[Tax Assist](https://drasticstatic.github.io/tax-assistant-public-preview/)** 🪙
 
