@@ -64,6 +64,7 @@ with real-time contribution telemetry
   - 🪄 **[Mystarch *ClaudeMent*](https://github.com/drasticstatic/anthropas-argus-alfred-public-preview/blob/main/sandbox/AGENT_IDENTITY_REFERENCE.md)** — durable Intent git history for Auggie's app-level Chief of Staff persona
   - 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <sub>← [![NVIDIA NIM](https://img.shields.io/badge/powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</sub> cross-repo awareness/privacy-firewall model
     - & specialized: ⛓️‍💥 **[Divorce-Custody Assist](https://drasticstatic.github.io/divorce-custody-assistant-public-preview/)** ⚖️ &nbsp;&&nbsp;&nbsp; **[Tax Assist](https://drasticstatic.github.io/tax-assistant-public-preview/)** 🪙
+  - 🐦 **[Littlebird Ambassador*](https://drasticstatic.github.io/littlebird-ambassador-public-preview/)** — partnering the agent fleet with a Saas' always-on context collection solution
 
 🛠️ **Hardened Utilities** — self-hosted specialized tools & private productivity scripts focused on structural security
 
