@@ -87,6 +87,28 @@ Foundation, sourced from `~/the-holy-earth-foundation/README.md` and its two pro
 explicitly flagged in the profile itself as needing Kenney's review before being treated as final).
 Neither profile should be read as institutionally final — both say so in their own text.
 
+## Making `<org>.github.io`'s own README show the profile page too
+
+The `.github.io` repo's own root `README.md` (what someone sees browsing that specific repo, as
+opposed to `profile/README.md`, which only renders on the org's overview page) starts out empty or
+generic. Rather than a one-time copy-paste — which goes stale the moment the profile README changes
+— both `psychedelicsinrecovery.github.io` and `theholyearthfoundation.github.io` run a small,
+**secret-free** GitHub Actions workflow (`.github/workflows/mirror-profile-readme.yml`) that:
+
+1. Fetches the `.github` repo's `profile/README.md` via `raw.githubusercontent.com` (public,
+   unauthenticated — no token needed to *read* a public repo's raw file).
+2. Prepends a short "auto-generated mirror, source of truth is here" notice.
+3. Commits and pushes the result as its own `README.md`, but only if the content actually changed.
+
+**Why this design specifically:** the workflow runs *inside* the `.github.io` repo and only ever
+writes to itself — `permissions: contents: write` is all it needs, no cross-repo Personal Access
+Token or org secret required. The tradeoff is latency, not correctness: it runs on a daily schedule
+(`workflow_dispatch` also lets you trigger it manually via `gh workflow run mirror-profile-readme.yml
+--repo <org>/<org>.github.io`) rather than firing instantly when the profile README changes. Instant
+sync is possible but needs a PAT with `repo` scope stored as an org secret so the `.github` repo can
+`repository_dispatch` the `.github.io` repo directly — deliberately not set up, to avoid secret
+sprawl for a sync that isn't time-sensitive.
+
 ## Practical sequence, if setting this up for a future org
 
 ```bash
