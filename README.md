@@ -66,8 +66,8 @@ with real-time contribution telemetry
     - & specialized: ⛓️‍💥 **[Divorce-Custody Assist](https://drasticstatic.github.io/divorce-custody-assistant-public-preview/)** ⚖️ &nbsp;&&nbsp;&nbsp; **[Tax Assist](https://drasticstatic.github.io/tax-assistant-public-preview/)** 🪙
   - 🐦 **[Littlebird Ambassador](https://drasticstatic.github.io/littlebird-ambassador-public-preview/)** — partnering the agent fleet with a Saas' always-on context collection solution
   - 🔥 **[A.L.E.X.A.N.D.R.I.N.A.](https://drasticstatic.github.io/alexandrina-public-preview/)** — general-purpose, cloud-native knowledge *engine* synced via Firecrawl MCP
-  - 👾 **[A.L.E.X.](https://psychedelicsinrecovery.github.io/alex-desk-public/)** — [PIR® Discord](https://discord.gg/MyprTq8w95)'s *Oracle* and *Service Desk* bot based on Alexandrina
-  - 🦄 **[T.B.D.](coming-soon)** — Octagonal Religious Research Group's [Discord](coming-soon) & [Telegram](coming-soon) *Oracle*
+  - 👾 **[A.L.E.X.](https://psychedelicsinrecovery.github.io/alex-desk-public/)** — PIR® Discord's *Oracle* and *Service Desk* bot based on Alexandrina
+  - 🦄 **[T.B.D.](coming-soon)** — Octagonal Religious Research Group's Discord & Telegram *Oracle*
 
 🛠️ **Hardened Utilities** — self-hosted specialized tools & private productivity scripts focused on structural security
 
