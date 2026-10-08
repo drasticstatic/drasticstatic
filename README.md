@@ -59,12 +59,15 @@ with real-time contribution telemetry
 - 🪶 **[FindYourFeathers](https://drasticstatic.github.io/findyourfeathers-public-preview/)** — Heather Randolph's Metaphysical Holistic Healing Practice<sub> · <em>Wix -+> Next.js</em></sub>
 
 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution:
-  - 👾 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS**
+  - 💼 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS**
   - 🧑‍🍳 **[Aunt *Harriot*](https://drasticstatic.github.io/aunt-harriot-public-preview/)** — forked Alfred harness authenticated by a visitor's API key
   - 🪄 **[Mystarch *ClaudeMent*](https://github.com/drasticstatic/anthropas-argus-alfred-public-preview/blob/main/sandbox/AGENT_IDENTITY_REFERENCE.md)** — durable Intent git history for Auggie's app-level Chief of Staff persona
   - 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <sub>← [![NVIDIA NIM](https://img.shields.io/badge/powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</sub> cross-repo awareness/privacy-firewall model
     - & specialized: ⛓️‍💥 **[Divorce-Custody Assist](https://drasticstatic.github.io/divorce-custody-assistant-public-preview/)** ⚖️ &nbsp;&&nbsp;&nbsp; **[Tax Assist](https://drasticstatic.github.io/tax-assistant-public-preview/)** 🪙
-  - 🐦 **[Littlebird Ambassador*](https://drasticstatic.github.io/littlebird-ambassador-public-preview/)** — partnering the agent fleet with a Saas' always-on context collection solution
+  - 🐦 **[Littlebird Ambassador](https://drasticstatic.github.io/littlebird-ambassador-public-preview/)** — partnering the agent fleet with a Saas' always-on context collection solution
+  - 🔥 **[A.L.E.X.A.N.D.R.I.N.A.](https://drasticstatic.github.io/alexandrina-public-preview/)** — general-purpose, cloud-native knowledge *engine* synced via Firecrawl MCP
+  - 👾 **[A.L.E.X.](https://psychedelicsinrecovery.github.io/alex-desk-public/)** — [PIR® Discord](https://discord.gg/MyprTq8w95)'s *Oracle* and *Service Desk* bot based on Alexandrina
+  - 🦄 **[T.B.D.](coming-soon)** — Octagonal Religious Research Group's [Discord](coming-soon) & [Telegram](coming-soon) *Oracle*
 
 🛠️ **Hardened Utilities** — self-hosted specialized tools & private productivity scripts focused on structural security
 
