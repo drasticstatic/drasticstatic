@@ -57,6 +57,7 @@ with real-time contribution telemetry
   - Original idea: &nbsp; ⏫ **[GoHighLevel - *Concept*](https://app.gohighlevel.com/v2/preview/4eNJavgKGMm6OpZoVw7k)** <sub>← [preview]</sub> &nbsp;&nbsp;**+**&nbsp;&nbsp; Migration: 💖 **[Loveable - *Rendition*](https://preview--wilson-lawn-ai-assist.lovable.app/)** <sub>← [preview]</sub>
 - 🫴🏼 **[DPNelson](https://github.com/drasticstatic/dpnelson-public-preview)** — Douglas Nelson's IFS (Internal Family Systems) coaching practice<sub> · <em>Wordpress -+> Vite</em></sub>
 - 🪶 **[FindYourFeathers](https://drasticstatic.github.io/findyourfeathers-public-preview/)** — Heather Randolph's Metaphysical Holistic Healing Practice<sub> · <em>Wix -+> Next.js</em></sub>
+- 🎁 **[TaylordWraps](https://drasticstatic.github.io/taylordwraps-nextjs-preview/)** — Taylor'd Wraps interactive bespoke showcase & web presence <sub> · <em>Shopify -+> Next.js sidecar</em></sub>
 
 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution:
   - 💼 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS**
