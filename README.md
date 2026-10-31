@@ -61,6 +61,7 @@ with real-time contribution telemetry
 
 🤖 **Agent Workflows** — autonomous modular system orchestration bridging LLM reasoning with production-level execution:
   - 💼 **[Claude *Skills*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/create-skill.marp.html)** — 🧱 **[Augment *Architecture*](https://drasticstatic.github.io/trading-assistant-public-preview/setup/AugmentArchitecture.html)** — 👽 **ElizaOS**
+  - 🗂️ **[Decks & skills *legend*](https://github.com/drasticstatic/.github/blob/main/decks/README.md)** — every lab and organisation Marp deck, where it lives and where it is served, plus the public skill sets
   - 🧑‍🍳 **[Aunt *Harriot*](https://drasticstatic.github.io/aunt-harriot-public-preview/)** — forked Alfred harness authenticated by a visitor's API key
   - 🪄 **[Mystarch *ClaudeMent*](https://github.com/drasticstatic/anthropas-argus-alfred-public-preview/blob/main/sandbox/AGENT_IDENTITY_REFERENCE.md)** — durable Intent git history for Auggie's app-level Chief of Staff persona
   - 👁️ **[Argus *Alfred*](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/)** <sub>← [![NVIDIA NIM](https://img.shields.io/badge/powered%20by-NVIDIA%20NIM-76b900)](https://build.nvidia.com/)</sub> cross-repo awareness/privacy-firewall model
