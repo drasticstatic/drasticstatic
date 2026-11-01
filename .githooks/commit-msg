@@ -33,6 +33,14 @@
 MSG_FILE="$1"
 [ -f "$MSG_FILE" ] || exit 0
 
+# Warn-only subject hint (GITMOJI.md, from my-template). Called only on the
+# paths where the attribution check below has already passed, and it always
+# returns 0, so it can never change what this hook accepts or rejects.
+gitmoji_hint() {
+  _gm="$(dirname "$0")/gitmoji-check.sh"
+  if [ -f "$_gm" ]; then sh "$_gm" "$MSG_FILE" || true; fi
+}
+
 # Strip comment lines so commented-out examples never satisfy the check.
 BODY=$(grep -v '^#' "$MSG_FILE")
 
@@ -197,4 +205,5 @@ if ! printf '%s\n' "$BODY" | grep -qE "$SESSION"; then
 EOF
 fi
 
+gitmoji_hint
 exit 0
