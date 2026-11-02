@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160" role="img" aria-label="drasticstatic: precision engineering, sacred systems, code that matters.">
+  <title>drasticstatic: precision engineering, sacred systems, code that matters</title>
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060816"/>
+      <stop offset="100%" stop-color="#0d1528"/>
+    </linearGradient>
+
+    <linearGradient id="rb" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#FF0080"/>
+      <stop offset="18%"  stop-color="#FF5500"/>
+      <stop offset="36%"  stop-color="#FFD100"/>
+      <stop offset="54%"  stop-color="#22DD00"/>
+      <stop offset="72%"  stop-color="#00AAFF"/>
+      <stop offset="100%" stop-color="#BB00FF"/>
+    </linearGradient>
+
+    <linearGradient id="edge" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#72e7ff" stop-opacity="0"/>
+      <stop offset="25%"  stop-color="#72e7ff" stop-opacity="0.8"/>
+      <stop offset="60%"  stop-color="#ff5bbd" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#ff5bbd" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- The orbs' glow, as a gradient: a blur filter on something moving is the most expensive thing an SVG can repaint -->
+    <radialGradient id="orbC">
+      <stop offset="0%" stop-color="#72e7ff" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#72e7ff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#72e7ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbP">
+      <stop offset="0%" stop-color="#ff5bbd" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#ff5bbd" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ff5bbd" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      .c { opacity: 0.09; }
+      .p { opacity: 0.1; }
+      @media (prefers-reduced-motion: no-preference) {
+        .c { animation: drift-c 9s steps(54) infinite alternate; }
+        .p { animation: drift-p 11s steps(66) infinite alternate; }
+      }
+      @keyframes drift-c { from { transform: translateX(0); opacity: 0.07; } to { transform: translateX(80px); opacity: 0.11; } }
+      @keyframes drift-p { from { transform: translateX(0); opacity: 0.08; } to { transform: translateX(-80px); opacity: 0.13; } }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="160" fill="url(#bg)"/>
+
+  <!-- Top + bottom accent lines -->
+  <rect x="80" y="0.25" width="740" height="1.5" fill="url(#edge)"/>
+  <rect x="80" y="158.5" width="740" height="1" fill="url(#edge)" opacity="0.4"/>
+
+  <!-- Drifting cyan orb (left) -->
+  <circle class="c" cx="120" cy="80" r="130" fill="url(#orbC)"/>
+
+  <!-- Drifting pink orb (right) -->
+  <circle class="p" cx="780" cy="80" r="130" fill="url(#orbP)"/>
+
+  <!-- "drasticstatic": main title, rainbow gradient, with a glow drawn as wide soft strokes -->
+  <g text-anchor="middle" dominant-baseline="middle" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', monospace" font-weight="900" font-size="68" letter-spacing="-2">
+    <text x="450" y="88" fill="none" stroke="url(#rb)" stroke-width="18" stroke-linejoin="round" opacity="0.09">drasticstatic</text>
+    <text x="450" y="88" fill="none" stroke="url(#rb)" stroke-width="8" stroke-linejoin="round" opacity="0.18">drasticstatic</text>
+    <text x="450" y="88" fill="url(#rb)">drasticstatic</text>
+  </g>
+
+  <!-- Tagline -->
+  <text x="450" y="128"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-family="ui-monospace, 'Fira Code', monospace"
+        font-size="15"
+        letter-spacing="4"
+        fill="#9fb0c8"
+        opacity="0.85">precision engineering · sacred systems · code that matters</text>
+
+</svg>

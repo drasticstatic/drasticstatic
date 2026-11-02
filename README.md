@@ -1,7 +1,12 @@
+<!-- readme-standard: 2026-11-02 -->
 <div align="center">
 
-<img src="https://drasticstatic.github.io/banner.svg" width="100%" alt="drasticstatic"/>
+<img src="assets/banner.svg" width="100%" alt="drasticstatic, in a rainbow gradient, with cyan and pink orbs drifting slowly behind it: precision engineering, sacred systems, code that matters."/>
 <br/>
+
+# drasticstatic
+
+*Precision engineering · sacred systems · code that matters*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=72E7FF&center=true&vCenter=true&width=520&lines=Blockchain+Developer+%7C+Web3+%26+FullStack+Engineer;Sacred+Systems+Architect+%7C+Ordained+Minister;AI+Agent+Builder+%7C+Claude+%2C+Augment+%2C+ElizaOS%E2%80%A6;Futures+Trader+%7C+Crypto+%26+DeFi+Enthusiast;CNC+%7C+Precision+Manufacturing+%26+Programming)](https://git.io/typing-svg)
 
@@ -24,7 +29,15 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/drasticstatic)
 &nbsp;
 [![Farcaster](https://img.shields.io/badge/Farcaster-855DCD?style=flat&logo=farcaster&logoColor=white)](https://farcaster.xyz/drasticstatic)
+<img src="assets/icons/map-pin.svg" width="16" height="16" alt=""> **You are here:** drasticstatic › `drasticstatic` · public, the profile page · `main` is the working branch
+
 </div>
+
+## <img src="assets/icons/compass.svg" width="24" height="24" alt=""> TL;DR
+
+1. <img src="assets/icons/user-round.svg" width="16" height="16" alt=""> **What this is.** Christopher Stephen Wilson's public profile: full-stack engineering, blockchain architecture and AI orchestration.
+2. <img src="assets/icons/users-round.svg" width="16" height="16" alt=""> **Who it is for.** Anyone curious about the work.
+3. <img src="assets/icons/footprints.svg" width="16" height="16" alt=""> **Do this first.** Open [the portfolio and resume](https://drasticstatic.github.io), or read on for what is live.
 
 ---
 <div align="center">
@@ -195,3 +208,9 @@ with real-time contribution telemetry
 
 
 - [🙈 How to publish a private doc as a masked public copy](how-to-publish-a-PRIVATE-doc-as-a-masked-PUBLIC-copy.md)
+
+## <img src="assets/icons/git-pull-request.svg" width="24" height="24" alt=""> Suggest a change
+
+Noticed something? Open an [issue](../../issues) or a pull request against `main`; Christopher reads them and a person with the role merges. Not on GitHub? Reach him through any of the channels at the top of this page.
+
+<sub>The front door follows the living [README standard](https://github.com/drasticstatic/my-template/blob/main/README-STANDARD.md). Copy it, improve it.</sub>
