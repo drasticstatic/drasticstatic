@@ -6,8 +6,6 @@
 
 <img src="assets/icons/map-pin.svg" width="16" height="16" alt=""> **You are here:** drasticstatic › `drasticstatic` · public, the profile page · `main` is the working branch
 
-*Precision engineering · sacred systems · code that matters*
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=72E7FF&center=true&vCenter=true&width=520&lines=Blockchain+Developer+%7C+Web3+%26+FullStack+Engineer;Sacred+Systems+Architect+%7C+Ordained+Minister;AI+Agent+Builder+%7C+Claude+%2C+Augment+%2C+ElizaOS%E2%80%A6;Futures+Trader+%7C+Crypto+%26+DeFi+Enthusiast;CNC+%7C+Precision+Manufacturing+%26+Programming)](https://git.io/typing-svg)
 
 [![Sponsor ❤](https://img.shields.io/badge/Sponsor_%E2%9D%A4-FF5BBD?style=flat&logo=githubsponsors&logoColor=FF0000)](https://github.com/sponsors/drasticstatic)
@@ -85,6 +83,7 @@ with real-time contribution telemetry
 
 🌐 **Public Scaffolding** — providing curated educational guides, resources & accessible surfaces for onboarding others:
   - 📋 **[Templates](https://github.com/drasticstatic/my-template)** &nbsp;&nbsp;·&nbsp;&nbsp; 🤔 **[How-To....md](https://github.com/drasticstatic/drasticstatic/)** &nbsp;&nbsp;·&nbsp;&nbsp; 🪬 &nbsp;&nbsp;·&nbsp;&nbsp; **[Dev Recruitment Safeguards](https://drasticstatic.github.io/dev-recruitment-safeguards/)** 🚦
+  - 🙈 **[How to publish a private doc as a masked public copy](how-to-publish-a-PRIVATE-doc-as-a-masked-PUBLIC-copy.md)**
 
 <div align="center">
   <br/>
@@ -198,17 +197,15 @@ with real-time contribution telemetry
 
 ---
 <br/>
-<div align="center">
-
-<img src="https://drasticstatic.github.io/favicon.svg" width="36" height="36" alt="drasticstatic"/>
-
-</div>
-
-
-- [🙈 How to publish a private doc as a masked public copy](how-to-publish-a-PRIVATE-doc-as-a-masked-PUBLIC-copy.md)
-
 ## <img src="assets/icons/git-pull-request.svg" width="24" height="24" alt=""> Suggest a change
 
 Noticed something? Open an [issue](../../issues) or a pull request against `main`; Christopher reads them and a person with the role merges. Not on GitHub? Reach him through any of the channels at the top of this page.
 
 <sub>The front door follows the living [README standard](https://github.com/drasticstatic/my-template/blob/main/README-STANDARD.md). Copy it, improve it.</sub>
+
+<br/>
+<div align="center">
+
+<img src="https://drasticstatic.github.io/favicon.svg" width="36" height="36" alt="drasticstatic"/>
+
+</div>
