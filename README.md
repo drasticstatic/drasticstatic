@@ -4,7 +4,7 @@
 <img src="assets/banner.svg" width="100%" alt="drasticstatic, in a rainbow gradient, with cyan and pink orbs drifting slowly behind it: precision engineering, sacred systems, code that matters."/>
 <br/>
 
-# drasticstatic
+<img src="assets/icons/map-pin.svg" width="16" height="16" alt=""> **You are here:** drasticstatic › `drasticstatic` · public, the profile page · `main` is the working branch
 
 *Precision engineering · sacred systems · code that matters*
 
@@ -29,13 +29,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/drasticstatic)
 &nbsp;
 [![Farcaster](https://img.shields.io/badge/Farcaster-855DCD?style=flat&logo=farcaster&logoColor=white)](https://farcaster.xyz/drasticstatic)
-<img src="assets/icons/map-pin.svg" width="16" height="16" alt=""> **You are here:** drasticstatic › `drasticstatic` · public, the profile page · `main` is the working branch
-
 </div>
 
 ## <img src="assets/icons/compass.svg" width="24" height="24" alt=""> TL;DR
 
-1. <img src="assets/icons/user-round.svg" width="16" height="16" alt=""> **What this is.** Christopher Stephen Wilson's public profile: full-stack engineering, blockchain architecture and AI orchestration.
+1. <img src="assets/icons/user-round.svg" width="16" height="16" alt=""> **What this is.** Christopher Stephen Wilson's public GitHub profile
 2. <img src="assets/icons/users-round.svg" width="16" height="16" alt=""> **Who it is for.** Anyone curious about the work.
 3. <img src="assets/icons/footprints.svg" width="16" height="16" alt=""> **Do this first.** Open [the portfolio and resume](https://drasticstatic.github.io), or read on for what is live.
 
