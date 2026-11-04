@@ -4,7 +4,7 @@
 <img src="assets/banner.svg" width="100%" alt="drasticstatic, in a rainbow gradient, with cyan and pink orbs drifting slowly behind it: precision engineering, sacred systems, code that matters."/>
 <br/>
 
-<img src="assets/icons/map-pin.svg" width="16" height="16" alt=""> **You are here:** drasticstatic › `drasticstatic` · public, the profile page · `main` is the working branch
+<img src="assets/icons/map-pin.svg" width="16" height="16" alt=""> **You are here:** `drasticstatic` › public, the profile page · `main` is the working branch
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=72E7FF&center=true&vCenter=true&width=520&lines=Blockchain+Developer+%7C+Web3+%26+FullStack+Engineer;Sacred+Systems+Architect+%7C+Ordained+Minister;AI+Agent+Builder+%7C+Claude+%2C+Augment+%2C+ElizaOS%E2%80%A6;Futures+Trader+%7C+Crypto+%26+DeFi+Enthusiast;CNC+%7C+Precision+Manufacturing+%26+Programming)](https://git.io/typing-svg)
 
@@ -196,7 +196,6 @@ with real-time contribution telemetry
 ![AutoDesk](https://img.shields.io/badge/AutoDesk-000000?style=flat&logo=autodesk&logoColor=white)
 
 ---
-<br/>
 ## <img src="assets/icons/git-pull-request.svg" width="24" height="24" alt=""> Suggest a change
 
 Noticed something? Open an [issue](../../issues) or a pull request against `main`; Christopher reads them and a person with the role merges. Not on GitHub? Reach him through any of the channels at the top of this page.
